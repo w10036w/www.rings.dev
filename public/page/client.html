@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>client test</title>
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.indigo-pink.min.css">
+  <script defer src="https://code.getmdl.io/1.2.1/material.min.js"></script>
+  <style>
+    body {
+      text-align: center;
+    }
+    .btn-block {
+      width: 80%;
+      height: 40px;
+      line-height: 40px;
+      margin: 20px auto;
+      font-size: 20px;
+    }
+    #iframe {
+      display: none;
+    }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.4/vue.min.js"></script>
+</head>
+<body>
+<div id="app">
+  <h5>Invoke App / In App Test</h5>
+  <a href="ua.html">User Agent</a>
+  <p><b>inAppProto:</b> {{inAppProto}}</p>
+  <p><b>invokeAppProto:</b> {{invokeAppProto}}</p>
+  <div class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect btn-block"
+       @click="testInAppVideo">invokeApp.video</div>
+  <div class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect btn-block"
+       @click="testInAppVideo">invoke.video</div>
+</div>
+<div id="iframe"></div>
+<script src="../util/strExt.js"></script>
+<script src="../util/ua.js"></script>
+<script src="../util/client.js"></script>
+<script>
+  var vm = new Vue({
+    el: '#app',
+    data: {
+      inAppProto: inAppProto,
+      invokeAppProto: invokeAppProto
+    },
+    methods: {
+      testInAppVideo() {
+        invokeApp.video(10014634, 'v58650')
+      }
+    }
+  })
+</script>
+</body>
+</html>

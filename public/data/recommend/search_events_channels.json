@@ -1,0 +1,62 @@
+{
+  "err_no": 0,
+  "err_msg": "OK",
+  "resp_search_event_and_channel": {
+    "event_info": [
+      {
+        "event_id": "",
+        "event_title": "Lianhe Zaobao SG50 Fashion Show",
+        "event_status": 3,
+        "event_poster1": "http://webapi-rings.shabikplus.mozat.com/images/2015/10/29/38/0/38ff6c67f7410bd34a28aad43$e0e2e120151029.png",
+        "like_count": 0,
+        "tags": "dfw,lifestyle,fashion",
+        "category_info_mini": {
+          "id": 8,
+          "name": "LIFESTYLE",
+          "color": "#399afe"
+        },
+        "channel": {
+          "channel_id": 10010920,
+          "user_id": 136988,
+          "user_name": "Digital Fashion Week",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2015/10/30/04/__/04ed273955f76a1a1bbe86956$04040420151030.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "video_session_id": "v3661",
+        "replay_stream_info": {
+          "media_id": 10015680,
+          "recorded_time": 1446146366000,
+          "duration": 3037000,
+          "host": "d2bi7sjjwydkz8.cloudfront.net",
+          "port": 80,
+          "media_file": "10010920_1446120604751.mp4",
+          "application": "vod",
+          "dir": "/",
+          "watched_count": 541,
+          "ad_id": 0,
+          "discarded": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      }
+    ],
+    "channel": [
+      {
+        "channel_id": 0,
+        "user_id": 135785,
+        "user_name": "zaobao.sg",
+        "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/16/18/__/186d37baf42237ea518a283e9$ad063120160916.png",
+        "follower_count": 13182,
+        "is_followed_by_user": false
+      }
+    ],
+    "hit_event_search": true,
+    "hit_channel_search": true
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "code": 200,
+  "note": 1480863375659,
+  "data": {
+    "end": 1,
+    "event_info": [
+      {
+        "event_title": "Fit for Life Dare Day",
+        "event_status": 2,
+        "event_description": "",
+        "event_poster1": "http://webapi-rings.shabikplus.mozat.com/images/2016/05/03/a4/0/a49ed97c66afe1902ed784acd$e3e3dd20160503.jpeg",
+        "event_poster2": "",
+        "like_count": 8,
+        "category_info_mini": {
+          "id": 3,
+          "name": "FOOD",
+          "color": "#b5957c"
+        },
+        "channel": {
+          "channel_id": 10016006,
+          "user_id": 172415,
+          "user_name": "Fit for Life Weekend",
+          "avatar": "http://webapi-rings.shabikplus.mozat.com//images/2016/05/03/f4/0/f4edeec105be60b4da0985ac5$eef1f020160503.jpeg",
+          "is_broadcasting": true
+        },
+        "video_session_id": "v63886",
+        "live_stream_info": {
+          "application": "live",
+          "stream": "10016006",
+          "hls_host": "d1lhuybnflqpkf.cloudfront.net",
+          "hls_port": 80,
+          "hls_url": [
+            "http://d1lhuybnflqpkf.cloudfront.net:80/live/10016006/playlist.m3u8"
+          ],
+          "start_time": 1480862032171,
+          "viewer_count": 1,
+          "webviewer_count": 152
+        },
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_title": "Cornelliana Night 2016",
+        "event_status": 2,
+        "event_description": "",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/06/10/ce/0/ce9ccebc4a8629362e1f54c9f$52433c20160610.jpeg",
+        "event_poster2": "",
+        "like_count": 0,
+        "channel": {
+          "channel_id": 10016184,
+          "user_id": 184503,
+          "user_name": "Cornell Alumni Livestreams",
+          "avatar": "http://webapi-rings.shabikplus.mozat.com//images/2016/06/10/85/0/851d604d9a9b90f2015cdc109$683d3620160610.jpeg",
+          "is_broadcasting": true
+        },
+        "video_session_id": "v63833",
+        "live_stream_info": {
+          "application": "live",
+          "stream": "10016184",
+          "hls_host": "d1lhuybnflqpkf.cloudfront.net",
+          "hls_port": 80,
+          "hls_url": [
+            "http://d1lhuybnflqpkf.cloudfront.net:80/live/10016184/playlist.m3u8"
+          ],
+          "start_time": 1480863112438,
+          "viewer_count": 2,
+          "webviewer_count": 11
+        },
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42391",
+        "event_title": "Tree House",
+        "event_status": 2,
+        "event_description": "TTitle event : UFM100.3DJ承尧 《夜晚最有Feel》\r\n\r\nDescription: 新一代的“文青”。承尧自大学毕业后正式加入UFM100.3的大家庭。全职资历虽只有两年，但承尧在理工学院就读期间已经在电台亮声。念书时期他担任过学生记者。写作、文创、音乐、时事，他都有兴趣。  承尧在课业上的表现也相当优越。  参加过DJ新秀选拔赛，以优越的表现名列前茅。加入电台为全职DJ之后，主要负责艺人访谈和担任讲座主持！近期他访问过的艺人包括：田馥甄，蔡健雅，谭咏麟，张学友，张韶涵 等。他也是《联合早报》固定专栏作者；同时也为学生报《逗号》写稿。  从小就养成阅读的习惯，承尧无论走到哪里都是捧着书。他直播的内容也经常以文创、戏剧和书籍分享为主。",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/cc/0/cce6103009f0439f30b8d25c0$57662f20161110.jpeg",
+        "event_poster2": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/cc/0/cce6103009f0439f30b8d25c0$57662f20161110.jpeg",
+        "like_count": 0,
+        "category_info_mini": {
+          "id": 1,
+          "name": "GENERAL",
+          "color": "#e6e6e6"
+        },
+        "channel": {
+          "channel_id": 10016491,
+          "user_id": 356511,
+          "user_name": "Tree House",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/08/2b/__/2bfdb7682cf4aa21f40bec1c8$58662e20161108.jpeg",
+          "is_broadcasting": true
+        },
+        "video_session_id": "v64309",
+        "live_stream_info": {
+          "application": "live",
+          "stream": "10016491",
+          "hls_host": "d6hua3ww2aij1.cloudfront.net",
+          "hls_port": 80,
+          "hls_url": [
+            "http://d6hua3ww2aij1.cloudfront.net:80/live/10016491/playlist.m3u8",
+            "http://pkleyou.cn:80/live/10016491/playlist.m3u8"
+          ],
+          "start_time": 1480863323908,
+          "viewer_count": 2,
+          "webviewer_count": 0
+        },
+        "access_code": "ufmtest",
+        "display_mode": 0,
+        "payment_info": {
+          "price_id": "",
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>user agent</title>
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.4/vue.min.js"></script>
+</head>
+<body>
+<div id="app">
+  <p><b>Full User Agent: </b></p>
+  <p>{{ua}}</p>
+  <p><b>OS: </b>{{os}}</p>
+  <p><b>Browser: </b>{{browser}}</p>
+  <p><b>if in Webview: </b>{{webview}}</p>
+  <p><b>if in App(Rings): </b>{{bApp}}</p>
+</div>
+<script src="../util/ua.js"></script>
+<script>
+  var vm = new Vue({
+    el: '#app',
+    data: {
+      ua: ua,
+      os: os(),
+      browser: browser(),
+      webview: webview(),
+      bApp: bApp()
+    }
+  })
+</script>
+</body>
+</html>

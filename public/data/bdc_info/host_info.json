@@ -1,0 +1,38 @@
+{
+  "code": 200,
+  "note": 1481975989995,
+  "data": {
+    "profile_channel": [
+      {
+        "profile": {
+          "user_id": 355817,
+          "name": "歌唱老师 盈盈",
+          "avatar": "https://graph.facebook.com/10155970664638973/picture?type=large&width=120&height=120",
+          "gender": 0,
+          "pin": "2259162",
+          "tagline": "",
+          "follower_count": 854,
+          "following_count": 1,
+          "replay_count": 2,
+          "coins": 0
+        },
+        "channel": {
+          "channel_id": 10016537,
+          "user_id": 355817,
+          "viewer_count": 0,
+          "user_name": "歌唱老师 盈盈",
+          "avatar": "https://graph.facebook.com/10155970664638973/picture?type=large&width=120&height=120",
+          "is_broadcasting": false,
+          "has_video_broadcasting": false,
+          "follower_count": 854,
+          "has_audio_broadcasting": false,
+          "cover_photo_1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/06/01/0/013d6899da9c338a223dfcd03$e6dad420161206.jpeg",
+          "cover_photo_2": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/06/01/0/013d6899da9c338a223dfcd03$e6dad420161206.jpeg",
+          "title": "翻唱唱翻天！",
+          "description": "",
+          "is_followed_by_user": true
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "code": 200,
+  "note": 1481980641923,
+  "data": {
+    "end": 1,
+    "event_info": [
+      {
+        "event_title": "一起唱K！！",
+        "event_status": 2,
+        "event_description": "",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/06/01/0/013d6899da9c338a223dfcd03$e6dad420161206.jpeg",
+        "event_poster2": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/06/01/0/013d6899da9c338a223dfcd03$e6dad420161206.jpeg",
+        "like_count": 10164,
+        "category_info_mini": {
+          "id": 1,
+          "name": "GENERAL",
+          "color": "#e6e6e6"
+        },
+        "channel": {
+          "channel_id": 10016537,
+          "user_id": 355817,
+          "user_name": "歌唱老师 盈盈",
+          "avatar": "https://graph.facebook.com/10155970664638973/picture?type=large&width=120&height=120",
+          "is_broadcasting": true
+        },
+        "video_session_id": "v64928",
+        "live_stream_info": {
+          "application": "live",
+          "stream": "10016537",
+          "hls_host": "d1oumay4im0cbl.cloudfront.net",
+          "hls_port": 80,
+          "hls_url": [
+            "http://d1oumay4im0cbl.cloudfront.net:80/live/10016537/playlist.m3u8"
+          ],
+          "start_time": 1481978061871,
+          "viewer_count": 7,
+          "webviewer_count": 583
+        },
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42888",
+        "event_title": "歌唱老师盈盈和勇溪来唱歌咯",
+        "event_status": 1,
+        "event_start_time": 1482582600000,
+        "event_end_time": 1482586200000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "盈盈目前担任United Records公司的声乐指导，于5年前创办了歌唱学校。",
+        "operation_description": "1",
+        "event_poster1": "https://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/13/88/0/88c27df5953593b2bb57c6022$e6dad420161213.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 6,
+          "name": "MUSIC",
+          "color": "#fe6186"
+        },
+        "channel": {
+          "channel_id": 10016537,
+          "user_id": 355817,
+          "user_name": "歌唱老师 盈盈",
+          "avatar": "https://graph.facebook.com/10155970664638973/picture?type=large&width=120&height=120",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": true
+        },
+        "upcoming_info": {
+          "register_count": 3,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "",
+        "event_title": "翻唱唱翻天！",
+        "event_status": 3,
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/06/01/0/013d6899da9c338a223dfcd03$e6dad420161206.jpeg",
+        "like_count": 5796,
+        "tags": "",
+        "category_info_mini": {
+          "id": 6,
+          "name": "MUSIC",
+          "color": "#fe6186"
+        },
+        "channel": {
+          "channel_id": 10016537,
+          "user_id": 355817,
+          "user_name": "歌唱老师 盈盈",
+          "avatar": "https://graph.facebook.com/10155970664638973/picture?type=large&width=120&height=120",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": true
+        },
+        "video_session_id": "v64226",
+        "replay_stream_info": {
+          "media_id": 10033492,
+          "recorded_time": 1481373033000,
+          "duration": 4657778,
+          "host": "d2bi7sjjwydkz8.cloudfront.net",
+          "port": 80,
+          "media_file": "/2016/12/10/21/10016537/1481377691174",
+          "application": "video",
+          "dir": "/",
+          "watched_count": 1623,
+          "ad_id": 0,
+          "discarded": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "",
+        "event_title": "Sing and Tell ",
+        "event_status": 3,
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/af/0/afb5fe3b4800b11a13f1ab6a3$f5f5f020161119.jpeg",
+        "like_count": 5238,
+        "tags": "",
+        "category_info_mini": {
+          "id": 6,
+          "name": "MUSIC",
+          "color": "#fe6186"
+        },
+        "channel": {
+          "channel_id": 10016537,
+          "user_id": 355817,
+          "user_name": "歌唱老师 盈盈",
+          "avatar": "https://graph.facebook.com/10155970664638973/picture?type=large&width=120&height=120",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": true
+        },
+        "video_session_id": "v61067",
+        "replay_stream_info": {
+          "media_id": 10033121,
+          "recorded_time": 1480768157000,
+          "duration": 3541432,
+          "host": "d2bi7sjjwydkz8.cloudfront.net",
+          "port": 80,
+          "media_file": "/2016/12/03/21/10016537/1480771699191",
+          "application": "video",
+          "dir": "/",
+          "watched_count": 1513,
+          "ad_id": 0,
+          "discarded": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,3131 @@
+{
+  "code": 200,
+  "note": 1480951944817,
+  "data": {
+    "category_with_replays": [
+      {
+        "category_info": {
+          "id": 15,
+          "name": "UFM",
+          "color": "#897dff"
+        },
+        "replays": [
+          {
+            "event_id": "",
+            "event_title": "UFM100.3早班 来报道咯!!",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/2e/0/2e2ad0176d517353341d33aa4$382d2020161119.jpeg",
+            "like_count": 13572,
+            "tags": "",
+            "category_info_mini": {
+              "id": 15,
+              "name": "UFM",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016489,
+              "user_id": 183812,
+              "user_name": "UFM100.3 文鸿",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/29/d4/__/d49a842386acb967851184076$7da9e720161129.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v62837",
+            "replay_stream_info": {
+              "media_id": 10032487,
+              "recorded_time": 1479769234000,
+              "duration": 8557446,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/22/09/10016489/1479777792091",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 8624,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": " UFM100.3 线上直播!",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/27/ca/0/caac883f4cb7c5d488f490ba3$d3cdcd20161127.jpeg",
+            "like_count": 123118,
+            "tags": "",
+            "category_info_mini": {
+              "id": 15,
+              "name": "UFM",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016207,
+              "user_id": 186671,
+              "user_name": "UFM100.3",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/09/__/0941690c0e72b3564b6622601$92c22220161110.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": true
+            },
+            "video_session_id": "v63391",
+            "replay_stream_info": {
+              "media_id": 10032757,
+              "recorded_time": 1480287659000,
+              "duration": 14510245,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/28/11/10016207/1480302170093",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 8330,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "UFM100.3 庆15 唱歌 Live",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/10/03/2d/0/2da26d36739b5a59f1df2b559$abc62a20161003.jpeg",
+            "like_count": 3877,
+            "tags": "",
+            "category_info_mini": {
+              "id": 15,
+              "name": "UFM",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016207,
+              "user_id": 186671,
+              "user_name": "UFM100.3",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/09/__/0941690c0e72b3564b6622601$92c22220161110.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": true
+            },
+            "video_session_id": "v58744",
+            "replay_stream_info": {
+              "media_id": 10031085,
+              "recorded_time": 1475492557000,
+              "duration": 8854285,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/10/03/21/10016207/1475501411738",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 5516,
+              "ad_id": 77,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "UFM100.3 菁云's live",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/2a/0/2a76cd340c84279021729824f$b0978220161119.jpeg",
+            "like_count": 30288,
+            "tags": "",
+            "category_info_mini": {
+              "id": 15,
+              "name": "UFM",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016499,
+              "user_id": 353756,
+              "user_name": "UFM100.3 菁云",
+              "avatar": "http://graph.facebook.com/1261698800560632/picture?type=large",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v64119",
+            "replay_stream_info": {
+              "media_id": 10033080,
+              "recorded_time": 1480684255000,
+              "duration": 5015741,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/02/22/10016499/1480689271333",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2866,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "星期五来咯！",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/02/76/0/76e99131e83aae1a3674f6af6$e9e7e720161202.jpeg",
+            "like_count": 9404,
+            "tags": "",
+            "category_info_mini": {
+              "id": 15,
+              "name": "UFM",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016207,
+              "user_id": 186671,
+              "user_name": "UFM100.3",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/09/__/0941690c0e72b3564b6622601$92c22220161110.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": true
+            },
+            "video_session_id": "v64105",
+            "replay_stream_info": {
+              "media_id": 10033072,
+              "recorded_time": 1480673240000,
+              "duration": 4217255,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/02/19/10016207/1480677458681",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2785,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "星期五来咯！",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/02/ca/0/ca2fe0d9ce3ff29c9c1e83b17$f1f1eb20161202.jpeg",
+            "like_count": 16129,
+            "tags": "",
+            "category_info_mini": {
+              "id": 15,
+              "name": "UFM",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016207,
+              "user_id": 186671,
+              "user_name": "UFM100.3",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/09/__/0941690c0e72b3564b6622601$92c22220161110.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": true
+            },
+            "video_session_id": "v64118",
+            "replay_stream_info": {
+              "media_id": 10033083,
+              "recorded_time": 1480691801000,
+              "duration": 3085382,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/03/00/10016207/1480694887840",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2715,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "韦礼安上现咯~ @UFM100.3线上主播!",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/25/49/0/49df5edf7e203db1aef6b66fa$f8f8f220161125.jpeg",
+            "like_count": 5036,
+            "tags": "",
+            "category_info_mini": {
+              "id": 15,
+              "name": "UFM",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016207,
+              "user_id": 186671,
+              "user_name": "UFM100.3",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/09/__/0941690c0e72b3564b6622601$92c22220161110.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": true
+            },
+            "video_session_id": "v63325",
+            "replay_stream_info": {
+              "media_id": 10032676,
+              "recorded_time": 1480076715000,
+              "duration": 2201901,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/25/21/10016207/1480078918276",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2542,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "伟龙陪你在星空下散步~:star2::first_quarter_moon_with_face:",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/12/0/12dae0c45cc460b2f8756b163$f5f4ee20161119.jpeg",
+            "like_count": 11053,
+            "tags": "",
+            "category_info_mini": {
+              "id": 15,
+              "name": "UFM",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016496,
+              "user_id": 193778,
+              "user_name": "UFM100.3 伟龙",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/37/__/37868d7e9e6e0ca2aab2e29e8$f5f4ee20161110.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63071",
+            "replay_stream_info": {
+              "media_id": 10032750,
+              "recorded_time": 1480249236000,
+              "duration": 3744496,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/27/21/10016496/1480252981608",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2287,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "Ah Rei 一家开播了! 来舞个獅！",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/00/0/0064ee23e89a4c508dfe6d02e$f8f8f220161119.jpeg",
+            "like_count": 4201,
+            "tags": "",
+            "category_info_mini": {
+              "id": 15,
+              "name": "UFM",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016527,
+              "user_id": 356266,
+              "user_name": "爱の家 Jo~Rei~Mi",
+              "avatar": "https://graph.facebook.com/10154297801644006/picture?type=large&width=120&height=120",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v61084",
+            "replay_stream_info": {
+              "media_id": 10032476,
+              "recorded_time": 1479731416000,
+              "duration": 2387517,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/21/21/10016527/1479733803602",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2035,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          }
+        ]
+      },
+      {
+        "category_info": {
+          "id": 6,
+          "name": "MUSIC",
+          "color": "#fe6186"
+        },
+        "replays": [
+          {
+            "event_id": "",
+            "event_title": "周五yeah! 谣呀谣!",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/2a/0/2a76cd340c84279021729824f$b0978220161119.jpeg",
+            "like_count": 11011,
+            "tags": "",
+            "category_info_mini": {
+              "id": 6,
+              "name": "MUSIC",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10016499,
+              "user_id": 353756,
+              "user_name": "UFM100.3 菁云",
+              "avatar": "http://graph.facebook.com/1261698800560632/picture?type=large",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63158",
+            "replay_stream_info": {
+              "media_id": 10032685,
+              "recorded_time": 1480077948000,
+              "duration": 6203945,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/25/22/10016499/1480084152407",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 4502,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "One Boy Band with 彦桦",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/19/0/19276b30b5d6cb55f4a21a413$f9f9f220161119.jpeg",
+            "like_count": 22175,
+            "tags": "",
+            "category_info_mini": {
+              "id": 6,
+              "name": "MUSIC",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10016512,
+              "user_id": 355730,
+              "user_name": "他的脚会唱歌 Fatt",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/23/0d/__/0dae631c572a11b22b16496eb$06060620161123.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63240",
+            "replay_stream_info": {
+              "media_id": 10032604,
+              "recorded_time": 1479971213000,
+              "duration": 4292162,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/24/16/10016512/1479975505710",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2419,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "来听歌！！",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/50/0/5010b7aa79efd845eb62a8a07$86643f20161119.jpeg",
+            "like_count": 11579,
+            "tags": "",
+            "category_info_mini": {
+              "id": 6,
+              "name": "MUSIC",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10016523,
+              "user_id": 356286,
+              "user_name": "魅力嗓音 Tiffany",
+              "avatar": "https://graph.facebook.com/10154543216632850/picture?type=large&width=120&height=120",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63171",
+            "replay_stream_info": {
+              "media_id": 10032802,
+              "recorded_time": 1480339896000,
+              "duration": 4908056,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/28/22/10016523/1480344804596",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2451,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "Series 1 : My Drum Story (Pt.2)",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/22/80/0/80f3c2ab903137edf4ea76ec8$15151520161122.jpeg",
+            "like_count": 10432,
+            "tags": "",
+            "category_info_mini": {
+              "id": 6,
+              "name": "MUSIC",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10016524,
+              "user_id": 154147,
+              "user_name": "木箱鼓手 Arthur 阿德",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/18/ea/__/ea47365c470ae9d0206038b22$f1efee20161118.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63297",
+            "replay_stream_info": {
+              "media_id": 10032732,
+              "recorded_time": 1480165814000,
+              "duration": 6032227,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/26/22/10016524/1480171846603",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2004,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue42137",
+            "event_title": "Nparks Concert Series in the Park",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/16/61/0/614ced924270fc78e244c1f2c$ced77220160916.jpeg",
+            "like_count": 23480,
+            "tags": "",
+            "category_info_mini": {
+              "id": 6,
+              "name": "MUSIC",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10010759,
+              "user_id": 136656,
+              "user_name": "National Parks Board",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2015/12/11/41/__/413cf1975be13371506bb5fd7$04040420151211.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v57724",
+            "replay_stream_info": {
+              "media_id": 10030712,
+              "recorded_time": 1474106202000,
+              "duration": 12179000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10010759_1474118383800.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 8577,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "来来来快看阿Win和Elizabeth的音乐世界",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/14/0/1403f9096af508eb53957c314$f9f8f120161119.jpeg",
+            "like_count": 10365,
+            "tags": "",
+            "category_info_mini": {
+              "id": 6,
+              "name": "MUSIC",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10016506,
+              "user_id": 194742,
+              "user_name": "热爱音乐 阿win",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/06/29/__/2946696b39cdeb8cdcb561fd4$36313220161106.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63494",
+            "replay_stream_info": {
+              "media_id": 10032733,
+              "recorded_time": 1480169148000,
+              "duration": 4749824,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/26/23/10016506/1480173930117",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1482,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "妙如和食物造型师有个约会",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/f2/0/f2b4cac010bffb8e3f2b9f563$f1f0ed20161119.jpeg",
+            "like_count": 10020,
+            "tags": "",
+            "category_info_mini": {
+              "id": 6,
+              "name": "MUSIC",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10016522,
+              "user_id": 163666,
+              "user_name": "本地歌手 Ruth魏妙如",
+              "avatar": "https://graph.facebook.com/10153630070158723/picture?type=large&width=120&height=120",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63743",
+            "replay_stream_info": {
+              "media_id": 10033202,
+              "recorded_time": 1480928669000,
+              "duration": 3510147,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/05/18/10016522/1480932179576",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1400,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue42036",
+            "event_title": "[决赛]麦王争霸全球粤语歌唱大赛新加坡赛区",
+            "event_status": 3,
+            "event_poster1": "https://webapi-rings-aws.shabikplus.mozat.com/images/2016/08/19/e8/0/e86a49d8314c6fec87195e7be$5a274720160819.jpeg",
+            "like_count": 9018,
+            "tags": "",
+            "category_info_mini": {
+              "id": 6,
+              "name": "MUSIC",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10016318,
+              "user_id": 196675,
+              "user_name": "2016麦王争霸新加坡赛区",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/07/28/43/__/4346ad090ac036b5b1b566be3$cda57420160728.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v56237",
+            "replay_stream_info": {
+              "media_id": 10030172,
+              "recorded_time": 1472383117000,
+              "duration": 10115000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10016318_1472393234557.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 7554,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "WEST COAST – PIONEER ROCKS!",
+            "event_status": 3,
+            "event_poster1": "https://webapi-rings-aws.shabikplus.mozat.com/images/2016/08/19/f4/0/f415b56f34b76ddcf2c0bcffd$070f2620160819.jpeg",
+            "like_count": 7387,
+            "tags": "",
+            "category_info_mini": {
+              "id": 6,
+              "name": "MUSIC",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10016367,
+              "user_id": 311700,
+              "user_name": "WEST COAST-PIONEER",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/08/16/90/__/90ff1d502f7ef29504d5b7895$f3edec20160816.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v53665",
+            "replay_stream_info": {
+              "media_id": 10030008,
+              "recorded_time": 1471687300000,
+              "duration": 15110000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10016367_1471702410521.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 7395,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "大家回来看我还在！",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/86/0/8602ae2756e212e3d908b2051$ebebe520161119.jpeg",
+            "like_count": 6656,
+            "tags": "",
+            "category_info_mini": {
+              "id": 6,
+              "name": "MUSIC",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10016510,
+              "user_id": 355665,
+              "user_name": "创作歌手 锦安",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/03/ef/__/efba20b66e7e37a50033bd2fa$e6e4e620161103.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63019",
+            "replay_stream_info": {
+              "media_id": 10032485,
+              "recorded_time": 1479738356000,
+              "duration": 1875700,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/21/22/10016510/1479740232728",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1158,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          }
+        ]
+      },
+      {
+        "category_info": {
+          "id": 16,
+          "name": "GETAI",
+          "color": "#fe6186"
+        },
+        "replays": [
+          {
+            "event_id": "ue42685",
+            "event_title": "PAssion Silver Card Launching歌台晚会",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/03/08/0/08ecbfbd956727030f334f22b$0b111420161203.jpeg",
+            "like_count": 68824,
+            "tags": "",
+            "category_info_mini": {
+              "id": 16,
+              "name": "GETAI",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10014634,
+              "user_id": 150078,
+              "user_name": "丽星娱乐台",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/25/b8/__/b8bbf08854f0e5f8ae8005f8e$e3c47f20160325.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v64286",
+            "replay_stream_info": {
+              "media_id": 10033154,
+              "recorded_time": 1480844989000,
+              "duration": 13278318,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/04/21/10014634/1480858268322",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 16481,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue42655",
+            "event_title": "天阴殿综艺晚会2016",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/02/23/0/2314dd2a6e0952f05f84f252b$081a3120161202.jpeg",
+            "like_count": 60643,
+            "tags": "",
+            "category_info_mini": {
+              "id": 16,
+              "name": "GETAI",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10014634,
+              "user_id": 150078,
+              "user_name": "丽星娱乐台",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/25/b8/__/b8bbf08854f0e5f8ae8005f8e$e3c47f20160325.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v64215",
+            "replay_stream_info": {
+              "media_id": 10033125,
+              "recorded_time": 1480766021000,
+              "duration": 9240880,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/03/22/10014634/1480775262795",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 11438,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "韭菜芭城隍庙中元会综艺晚会2016",
+            "event_status": 3,
+            "event_poster1": "https://webapi-rings-aws.shabikplus.mozat.com/images/2016/08/16/a7/0/a773181b69f8828ab82c662d3$231f3d20160816.jpeg",
+            "like_count": 1253318,
+            "tags": "",
+            "category_info_mini": {
+              "id": 16,
+              "name": "GETAI",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10014634,
+              "user_id": 150078,
+              "user_name": "丽星娱乐台",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/25/b8/__/b8bbf08854f0e5f8ae8005f8e$e3c47f20160325.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v53030",
+            "replay_stream_info": {
+              "media_id": 10029905,
+              "recorded_time": 1471345421000,
+              "duration": 14139000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10014634_1471359561600.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 150997,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "韭菜芭城隍庙中元会综艺晚会2016",
+            "event_status": 3,
+            "event_poster1": "https://webapi-rings-aws.shabikplus.mozat.com/images/2016/08/15/f4/0/f42f2decaf6bef38fdf1a17ee$20283a20160815.jpeg",
+            "like_count": 569188,
+            "tags": "",
+            "category_info_mini": {
+              "id": 16,
+              "name": "GETAI",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10014634,
+              "user_id": 150078,
+              "user_name": "丽星娱乐台",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/25/b8/__/b8bbf08854f0e5f8ae8005f8e$e3c47f20160325.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v53004",
+            "replay_stream_info": {
+              "media_id": 10029894,
+              "recorded_time": 1471259139000,
+              "duration": 12939000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10014634_1471272078482.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 92164,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue42056",
+            "event_title": "罗弄榴梿联合中元会综艺晚会2016",
+            "event_status": 3,
+            "event_poster1": "https://webapi-rings-aws.shabikplus.mozat.com/images/2016/08/30/50/0/50b66b45c613f97f74405e231$0e0e1020160830.jpeg",
+            "like_count": 267368,
+            "tags": "",
+            "category_info_mini": {
+              "id": 16,
+              "name": "GETAI",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10014634,
+              "user_id": 150078,
+              "user_name": "丽星娱乐台",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/25/b8/__/b8bbf08854f0e5f8ae8005f8e$e3c47f20160325.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v56405",
+            "replay_stream_info": {
+              "media_id": 10030247,
+              "recorded_time": 1472564523000,
+              "duration": 11972000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10016051_1472628038055.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 74266,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "勿洛北工业食品联合中元会",
+            "event_status": 3,
+            "event_poster1": "https://webapi-rings-aws.shabikplus.mozat.com/images/2016/08/20/0a/0/0af9b2b6704fc6b45a06a8e37$110b1820160820.jpeg",
+            "like_count": 1358875,
+            "tags": "",
+            "category_info_mini": {
+              "id": 16,
+              "name": "GETAI",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10014634,
+              "user_id": 150078,
+              "user_name": "丽星娱乐台",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/25/b8/__/b8bbf08854f0e5f8ae8005f8e$e3c47f20160325.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v53687",
+            "replay_stream_info": {
+              "media_id": 10030009,
+              "recorded_time": 1471701885000,
+              "duration": 15408000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10016051_1471745032248.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 66979,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue42315",
+            "event_title": "凤山宫属下老菜友会主办 老歌金曲会菜友演唱会2016",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/10/18/5a/0/5ab7e960cd6f8561ddcfc68b5$40201f20161018.jpeg",
+            "like_count": 773562,
+            "tags": "",
+            "category_info_mini": {
+              "id": 16,
+              "name": "GETAI",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10014634,
+              "user_id": 150078,
+              "user_name": "丽星娱乐台",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/25/b8/__/b8bbf08854f0e5f8ae8005f8e$e3c47f20160325.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v59206",
+            "replay_stream_info": {
+              "media_id": 10031508,
+              "recorded_time": 1476790489000,
+              "duration": 12446100,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/10/19/18/10000243/1476874513536",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 65648,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue42090",
+            "event_title": "洛阳大伯公宫月圆歌响庆中秋",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/14/06/0/06ec53e891a4dfbf066f20d2c$13100d20160914.jpeg",
+            "like_count": 350977,
+            "tags": "",
+            "category_info_mini": {
+              "id": 16,
+              "name": "GETAI",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10014634,
+              "user_id": 150078,
+              "user_name": "丽星娱乐台",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/25/b8/__/b8bbf08854f0e5f8ae8005f8e$e3c47f20160325.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v57530",
+            "replay_stream_info": {
+              "media_id": 10030627,
+              "recorded_time": 1473850803000,
+              "duration": 12456000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10016051_1474020126622.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 54681,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue42281",
+            "event_title": "凤山宫理事会 金曲情牵演唱会2016",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/10/11/ae/0/aea3519cc6ef9fa7836c2d164$190c0e20161011.jpeg",
+            "like_count": 345760,
+            "tags": "",
+            "category_info_mini": {
+              "id": 16,
+              "name": "GETAI",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10014634,
+              "user_id": 150078,
+              "user_name": "丽星娱乐台",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/25/b8/__/b8bbf08854f0e5f8ae8005f8e$e3c47f20160325.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v59001",
+            "replay_stream_info": {
+              "media_id": 10031324,
+              "recorded_time": 1476185852000,
+              "duration": 12114880,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/10/18/10/10000243/1476758505975",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 52072,
+              "ad_id": 81,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue41927",
+            "event_title": "大巴窑八巷多层工厂中元会综艺晚会2016",
+            "event_status": 3,
+            "event_poster1": "https://webapi-rings-aws.shabikplus.mozat.com/images/2016/08/09/ab/0/ab34fd127315d984200bcba58$1c141020160809.jpeg",
+            "like_count": 174753,
+            "tags": "",
+            "category_info_mini": {
+              "id": 16,
+              "name": "GETAI",
+              "color": "#fe6186"
+            },
+            "channel": {
+              "channel_id": 10014634,
+              "user_id": 150078,
+              "user_name": "丽星娱乐台",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/25/b8/__/b8bbf08854f0e5f8ae8005f8e$e3c47f20160325.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v52558",
+            "replay_stream_info": {
+              "media_id": 10029803,
+              "recorded_time": 1470827873000,
+              "duration": 12041000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10014634_1470839913864.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 43097,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          }
+        ]
+      },
+      {
+        "category_info": {
+          "id": 3,
+          "name": "FOOD",
+          "color": "#b5957c"
+        },
+        "replays": [
+          {
+            "event_id": "",
+            "event_title": "CarolMel Cafe | Tai Seng",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/22/9e/0/9e416ad8e2e1181de2e69468b$fafaf320161122.jpeg",
+            "like_count": 3205,
+            "tags": "",
+            "category_info_mini": {
+              "id": 3,
+              "name": "FOOD",
+              "color": "#b5957c"
+            },
+            "channel": {
+              "channel_id": 10016533,
+              "user_id": 356280,
+              "user_name": "AhSoh.SG吃好料",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/06/7e/__/7eb391388d5b30bbe69a2119f$b0b6a420161106.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63642",
+            "replay_stream_info": {
+              "media_id": 10032797,
+              "recorded_time": 1480332232000,
+              "duration": 6148364,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/28/21/10016533/1480338381412",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2698,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "Gingerbread Man cookies!!",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/22/5d/0/5d6ce04824ac178fd959c92ba$eceade20161122.jpeg",
+            "like_count": 9070,
+            "tags": "",
+            "category_info_mini": {
+              "id": 3,
+              "name": "FOOD",
+              "color": "#b5957c"
+            },
+            "channel": {
+              "channel_id": 10016528,
+              "user_id": 356338,
+              "user_name": "烘焙神手 Zach",
+              "avatar": "https://graph.facebook.com/10206887389653374/picture?type=large&width=120&height=120",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63595",
+            "replay_stream_info": {
+              "media_id": 10033172,
+              "recorded_time": 1480912134000,
+              "duration": 3913702,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/05/13/10016528/1480916048979",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1950,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "(1)爱吃女 迎倩's live- 要吃蛋挞吗??",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/7b/0/7b3d55ce6890eb2f7dbd849d0$ccd0d620161119.jpeg",
+            "like_count": 4521,
+            "tags": "",
+            "category_info_mini": {
+              "id": 3,
+              "name": "FOOD",
+              "color": "#b5957c"
+            },
+            "channel": {
+              "channel_id": 10016520,
+              "user_id": 349258,
+              "user_name": "爱吃女 迎倩",
+              "avatar": "https://graph.facebook.com/10211117456915403/picture?type=large&width=120&height=120",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63396",
+            "replay_stream_info": {
+              "media_id": 10032688,
+              "recorded_time": 1480081491000,
+              "duration": 5374895,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/25/23/10016520/1480086870007",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1849,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": ":pig:和琼姐今天焖猪脚 传统客家菜 学起来:heart_eyes::heart_eyes:",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/f2/0/f292fff36d5af13b4361de897$69403420161119.jpeg",
+            "like_count": 2238,
+            "tags": "",
+            "category_info_mini": {
+              "id": 3,
+              "name": "FOOD",
+              "color": "#b5957c"
+            },
+            "channel": {
+              "channel_id": 10016495,
+              "user_id": 355810,
+              "user_name": "UFM100.3 小猪🐷",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/93/__/933d750e3809ea38715baf4a6$bcad9020161110.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63130",
+            "replay_stream_info": {
+              "media_id": 10032526,
+              "recorded_time": 1479876971000,
+              "duration": 2976721,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/23/13/10016495/1479879948338",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1844,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "UFM100.3",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/22/8a/0/8a5cb31334b9a0f34ec6cd471$fafaf320161122.jpeg",
+            "like_count": 4201,
+            "tags": "",
+            "category_info_mini": {
+              "id": 3,
+              "name": "FOOD",
+              "color": "#b5957c"
+            },
+            "channel": {
+              "channel_id": 10016569,
+              "user_id": 358239,
+              "user_name": "Ying莹 (葡萄酒小博士）",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/24/16/__/161c119050aa2eb0cf11fe267$37373020161124.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63061",
+            "replay_stream_info": {
+              "media_id": 10032748,
+              "recorded_time": 1480246179000,
+              "duration": 3743045,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/27/20/10016569/1480249933059",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1560,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "日式咖喱",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/18/b6/0/b6efe9c9a152d8edf6c851e6a$88b99b20161118.jpeg",
+            "like_count": 2651,
+            "tags": "",
+            "category_info_mini": {
+              "id": 3,
+              "name": "FOOD",
+              "color": "#b5957c"
+            },
+            "channel": {
+              "channel_id": 10016526,
+              "user_id": 355821,
+              "user_name": "蒙面➗男",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/18/de/__/dee9679d657b49410f7d7eb97$ac755d20161118.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63173",
+            "replay_stream_info": {
+              "media_id": 10032803,
+              "recorded_time": 1480343838000,
+              "duration": 3161477,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/28/23/10016526/1480347000378",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1559,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "大学生运动记! 身体嘴巴一起动!",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/fe/0/fe03ea66b6d0b0dc0e2c6454a$f9f9f220161119.jpeg",
+            "like_count": 2623,
+            "tags": "",
+            "category_info_mini": {
+              "id": 3,
+              "name": "FOOD",
+              "color": "#b5957c"
+            },
+            "channel": {
+              "channel_id": 10016504,
+              "user_id": 355826,
+              "user_name": "大学生 洤斌",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/04/0e/__/0ef402a1c39e6ff44bbd1a166$c0c0c020161104.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63558",
+            "replay_stream_info": {
+              "media_id": 10032753,
+              "recorded_time": 1480251452000,
+              "duration": 3675695,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/27/21/10016504/1480255128426",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1354,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "哈芝巷品Ciao@意大利美食",
+            "event_status": 3,
+            "event_poster1": "https://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/02/17/0/1752e1b2d19d0fef08d451101$22254020160902.jpeg",
+            "like_count": 467,
+            "tags": "",
+            "category_info_mini": {
+              "id": 3,
+              "name": "FOOD",
+              "color": "#b5957c"
+            },
+            "channel": {
+              "channel_id": 10016427,
+              "user_id": 332578,
+              "user_name": "吃喝玩乐在狮城 ",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/02/c5/__/c591de78b6e81809fde237a42$e2e1d820160902.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v56759",
+            "replay_stream_info": {
+              "media_id": 10030401,
+              "recorded_time": 1472820402000,
+              "duration": 599000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10016427_1472821003749.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 264,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          }
+        ]
+      },
+      {
+        "category_info": {
+          "id": 2,
+          "name": "MOVIE",
+          "color": "#f89f48"
+        },
+        "replays": [
+          {
+            "event_id": "ue42369",
+            "event_title": "mm2 Movie Makers Awards 2016 Awards Ceremony",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/04/fa/0/faa5df92bb76f02036fa99fad$5bc1b920161104.png",
+            "like_count": 2288,
+            "tags": "",
+            "category_info_mini": {
+              "id": 2,
+              "name": "MOVIE",
+              "color": "#f89f48"
+            },
+            "channel": {
+              "channel_id": 10016487,
+              "user_id": 354993,
+              "user_name": "mm2LIVE!",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/01/d7/__/d73d3cf36a7e495c5d3fec751$9f9d9f20161101.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v60359",
+            "replay_stream_info": {
+              "media_id": 10032070,
+              "recorded_time": 1478679157000,
+              "duration": 4251818,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/15/14/10000243/1479190140430",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 6921,
+              "ad_id": 0,
+              "discarded": true
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue42360",
+            "event_title": "财神爷 电影发布会",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/10/30/68/0/68bf849fa19b6f6e4959e55e9$c0353320161030.jpeg",
+            "like_count": 3373,
+            "tags": "",
+            "category_info_mini": {
+              "id": 2,
+              "name": "MOVIE",
+              "color": "#f89f48"
+            },
+            "channel": {
+              "channel_id": 10016487,
+              "user_id": 354993,
+              "user_name": "mm2LIVE!",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/01/d7/__/d73d3cf36a7e495c5d3fec751$9f9d9f20161101.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v60358",
+            "replay_stream_info": {
+              "media_id": 10031851,
+              "recorded_time": 1477876409000,
+              "duration": 1567318,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/10/31/11/10000243/1477883888351",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 3776,
+              "ad_id": 0,
+              "discarded": true
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          }
+        ]
+      },
+      {
+        "category_info": {
+          "id": 10,
+          "name": "FUNNY",
+          "color": "#897dff"
+        },
+        "replays": [
+          {
+            "event_id": "",
+            "event_title": "你所不知道的Rinjani100极限挑战分享会",
+            "event_status": 3,
+            "event_poster1": "https://webapi-rings-aws.shabikplus.mozat.com/images/2016/08/17/fd/0/fdc01a2c25da5248b16a3233d$322e2e20160817.png",
+            "like_count": 1512,
+            "tags": "",
+            "category_info_mini": {
+              "id": 10,
+              "name": "FUNNY",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016267,
+              "user_id": 191874,
+              "user_name": "狮城玩咖",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/07/04/a8/__/a8400033c7d113c40ad8e6472$d1041a20160704.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v49864",
+            "replay_stream_info": {
+              "media_id": 10029930,
+              "recorded_time": 1471434400000,
+              "duration": 8917000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10016267_1471443320147.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 4589,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue42214",
+            "event_title": "OktoberFest 2016 同欢共庆啤酒节",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/10/03/fc/0/fc3fbc983464d673af12089a6$923c1020161003.jpeg",
+            "like_count": 1202,
+            "tags": "",
+            "category_info_mini": {
+              "id": 10,
+              "name": "FUNNY",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016459,
+              "user_id": 340623,
+              "user_name": "Jit Sin Union 日新校友会",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/28/65/__/658c382ad03ba1f99dd497d53$0f0ff620160928.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v59359",
+            "replay_stream_info": {
+              "media_id": 10031560,
+              "recorded_time": 1476960909000,
+              "duration": 14710574,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/10/20/23/10016459/1476975620591",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 4228,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "剩女张莹, 圣男彦维小二, 遇到旧情人?",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/1f/0/1f682259009a76d418939fad6$c8bbac20161119.jpeg",
+            "like_count": 7848,
+            "tags": "",
+            "category_info_mini": {
+              "id": 10,
+              "name": "FUNNY",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016540,
+              "user_id": 356595,
+              "user_name": "剩女 张莹",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/18/df/__/dffb6356cf9910fc2515ccd4e$b89f8620161118.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v62690",
+            "replay_stream_info": {
+              "media_id": 10032800,
+              "recorded_time": 1480336268000,
+              "duration": 4974178,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/28/21/10016540/1480341243006",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2909,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "USS Halloween! Part 2",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/24/4a/0/4a74ff747be31047406c3cc9d$3950a020160924.jpeg",
+            "like_count": 1223,
+            "tags": "",
+            "category_info_mini": {
+              "id": 10,
+              "name": "FUNNY",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016449,
+              "user_id": 151541,
+              "user_name": "Charmaine Sei 薛素丽",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/15/46/__/4678fc0b7e3e01f46a7677dda$b9856020160915.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v59360",
+            "replay_stream_info": {
+              "media_id": 10031558,
+              "recorded_time": 1476964144000,
+              "duration": 5190817,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/10/20/21/10016449/1476969335550",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2036,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue42346",
+            "event_title": "The Forest 陰森林 A Shanghai Dolly Halloween Party",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/10/28/cb/0/cbe25c2f7bd76f1a054cced30$18181b20161028.jpeg",
+            "like_count": 1513,
+            "tags": "",
+            "category_info_mini": {
+              "id": 10,
+              "name": "FUNNY",
+              "color": "#897dff"
+            },
+            "channel": {
+              "channel_id": 10016035,
+              "user_id": 174018,
+              "user_name": "Shanghai Dolly",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/05/07/17/__/172a82091f707d9dc2f20ef57$f4f3f320160507.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v60064",
+            "replay_stream_info": {
+              "media_id": 10031845,
+              "recorded_time": 1477756131000,
+              "duration": 3382660,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/10/30/00/10016035/1477759514684",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1814,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          }
+        ]
+      },
+      {
+        "category_info": {
+          "id": 8,
+          "name": "LIFESTYLE",
+          "color": "#399afe"
+        },
+        "replays": [
+          {
+            "event_id": "ue42358",
+            "event_title": "The Purple Parade",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/10/31/cc/0/cce4f1258015fc3d6f80266a5$734b9c20161031.jpeg",
+            "like_count": 2713,
+            "tags": "",
+            "category_info_mini": {
+              "id": 8,
+              "name": "LIFESTYLE",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10016250,
+              "user_id": 189784,
+              "user_name": "ThePurpleParadeSG",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/06/30/8a/__/8acb3f64b70be6c40375d223c$9b339b20160630.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v60739",
+            "replay_stream_info": {
+              "media_id": 10031993,
+              "recorded_time": 1478325195000,
+              "duration": 19337783,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/05/19/10016250/1478344534076",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 5578,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "两老两少胡说八道 早晨最劲爆30112016",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/26/bf/0/bf895b12319ddd4de96d99d73$2e504b20161126.jpeg",
+            "like_count": 101772,
+            "tags": "",
+            "category_info_mini": {
+              "id": 8,
+              "name": "LIFESTYLE",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10014703,
+              "user_id": 150915,
+              "user_name": "JTV",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/24/22/__/226bdbdf3b6a7cfbc122716fb$74a23f20160324.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63673",
+            "replay_stream_info": {
+              "media_id": 10032858,
+              "recorded_time": 1480461534000,
+              "duration": 9766263,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/30/10/10014703/1480471301140",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 9552,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "生活中的艺术衍生品 画家丹红",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/14/5a/0/5aa5e410a65e663d532ca7f9c$cb7e5c20161114.jpeg",
+            "like_count": 2732,
+            "tags": "",
+            "category_info_mini": {
+              "id": 8,
+              "name": "LIFESTYLE",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10013984,
+              "user_id": 148470,
+              "user_name": "Eeva Productions",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/03/11/__/11daee7f6d311d9b309c286a2$04040420160303.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v61011",
+            "replay_stream_info": {
+              "media_id": 10032259,
+              "recorded_time": 1479301056000,
+              "duration": 3729269,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/16/21/10013984/1479304785577",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 3220,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "好天气，今晚来浪漫一下~ :waning_crescent_moon:",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/12/0/12dae0c45cc460b2f8756b163$f5f4ee20161119.jpeg",
+            "like_count": 20800,
+            "tags": "",
+            "category_info_mini": {
+              "id": 8,
+              "name": "LIFESTYLE",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10016496,
+              "user_id": 193778,
+              "user_name": "UFM100.3 伟龙",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/37/__/37868d7e9e6e0ca2aab2e29e8$f5f4ee20161110.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63559",
+            "replay_stream_info": {
+              "media_id": 10033153,
+              "recorded_time": 1480853197000,
+              "duration": 4413880,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/04/21/10016496/1480857628173",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2757,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "线上直播-丽梅另类兴趣",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/8a/0/8ae74010dfd618cf506beb418$f7f5ed20161119.jpeg",
+            "like_count": 2125,
+            "tags": "",
+            "category_info_mini": {
+              "id": 8,
+              "name": "LIFESTYLE",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10016494,
+              "user_id": 355784,
+              "user_name": "UFM100.3 丽梅",
+              "avatar": "http://graph.facebook.com/10207910936472180/picture?type=large",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63442",
+            "replay_stream_info": {
+              "media_id": 10033087,
+              "recorded_time": 1480730785000,
+              "duration": 4360046,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/03/11/10016494/1480735143815",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2535,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "最恶心的甜美举动! 张莹和彦维小二一起聊.",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/1f/0/1f682259009a76d418939fad6$c8bbac20161119.jpeg",
+            "like_count": 3762,
+            "tags": "",
+            "category_info_mini": {
+              "id": 8,
+              "name": "LIFESTYLE",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10016540,
+              "user_id": 356595,
+              "user_name": "剩女 张莹",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/18/df/__/dffb6356cf9910fc2515ccd4e$b89f8620161118.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63651",
+            "replay_stream_info": {
+              "media_id": 10033175,
+              "recorded_time": 1480913158000,
+              "duration": 3865495,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/05/13/10016540/1480917024430",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1668,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "今晚到Supply &Demand! 想吃／喝些什么呢?@",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/22/8a/0/8a5cb31334b9a0f34ec6cd471$fafaf320161122.jpeg",
+            "like_count": 2043,
+            "tags": "",
+            "category_info_mini": {
+              "id": 8,
+              "name": "LIFESTYLE",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10016569,
+              "user_id": 358239,
+              "user_name": "Ying莹 (葡萄酒小博士）",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/24/16/__/161c119050aa2eb0cf11fe267$37373020161124.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v64299",
+            "replay_stream_info": {
+              "media_id": 10033152,
+              "recorded_time": 1480852560000,
+              "duration": 3074696,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/04/20/10016569/1480855632983",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1401,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "Thanksgiving! JoReiMi 一家与你一起感恩!",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/00/0/0064ee23e89a4c508dfe6d02e$f8f8f220161119.jpeg",
+            "like_count": 6707,
+            "tags": "",
+            "category_info_mini": {
+              "id": 8,
+              "name": "LIFESTYLE",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10016527,
+              "user_id": 356266,
+              "user_name": "爱の家 Jo~Rei~Mi",
+              "avatar": "https://graph.facebook.com/10154297801644006/picture?type=large&width=120&height=120",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63014",
+            "replay_stream_info": {
+              "media_id": 10032799,
+              "recorded_time": 1480336281000,
+              "duration": 3467619,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/28/21/10016527/1480339748817",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1329,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "汉锡凤玲快乐族",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/10/0/109915fb54c92b2dd05c21aff$d9d7d120161119.jpeg",
+            "like_count": 1810,
+            "tags": "",
+            "category_info_mini": {
+              "id": 8,
+              "name": "LIFESTYLE",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10016535,
+              "user_id": 355802,
+              "user_name": "辅导侠侣 汉锡 风铃",
+              "avatar": "https://graph.facebook.com/10209768830470647/picture?type=large&width=120&height=120",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v61086",
+            "replay_stream_info": {
+              "media_id": 10032879,
+              "recorded_time": 1480480434000,
+              "duration": 3596285,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/30/13/10016535/1480484030477",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1342,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "Legacy Dance Camp",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/96/0/964edfe92e426af2a0e4ff5c2$0e303720161119.jpeg",
+            "like_count": 9147,
+            "tags": "",
+            "category_info_mini": {
+              "id": 8,
+              "name": "LIFESTYLE",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10016530,
+              "user_id": 356004,
+              "user_name": "舞蹈团体 Legacy",
+              "avatar": "http://graph.facebook.com/10153844312481104/picture?type=large",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v61092",
+            "replay_stream_info": {
+              "media_id": 10033081,
+              "recorded_time": 1480686195000,
+              "duration": 3202851,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/02/22/10016530/1480689398071",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1213,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          }
+        ]
+      },
+      {
+        "category_info": {
+          "id": 17,
+          "name": "PETS",
+          "color": "#eebf64"
+        },
+        "replays": [
+          {
+            "event_id": "",
+            "event_title": "我的第一次",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/22/b8/0/b88120ce55399c54474ad968d$f8f7ef20161122.jpeg",
+            "like_count": 2690,
+            "tags": "",
+            "category_info_mini": {
+              "id": 17,
+              "name": "PETS",
+              "color": "#eebf64"
+            },
+            "channel": {
+              "channel_id": 10016517,
+              "user_id": 355644,
+              "user_name": "狗狗专家 Derrick",
+              "avatar": "https://graph.facebook.com/10154027856283443/picture?type=large&width=120&height=120",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v61080",
+            "replay_stream_info": {
+              "media_id": 10032507,
+              "recorded_time": 1479808631000,
+              "duration": 2001826,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/22/18/10016517/1479810633453",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1627,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "VFA之'四大天王'",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/22/0c/0/0c187689ea830c964ff3fc556$f3f1eb20161122.jpeg",
+            "like_count": 6751,
+            "tags": "",
+            "category_info_mini": {
+              "id": 17,
+              "name": "PETS",
+              "color": "#eebf64"
+            },
+            "channel": {
+              "channel_id": 10016515,
+              "user_id": 355639,
+              "user_name": "狗狗专家 Pearly",
+              "avatar": "http://graph.facebook.com/10154589258356963/picture?type=large",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v64273",
+            "replay_stream_info": {
+              "media_id": 10033146,
+              "recorded_time": 1480841739000,
+              "duration": 3532219,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/04/17/10016515/1480845272222",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1412,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "shiro is back!",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/7d/0/7dbeb4f2de8347622135cec72$271e2520161119.jpeg",
+            "like_count": 2240,
+            "tags": "",
+            "category_info_mini": {
+              "id": 17,
+              "name": "PETS",
+              "color": "#eebf64"
+            },
+            "channel": {
+              "channel_id": 10016511,
+              "user_id": 355651,
+              "user_name": "明星猫咪 Shiro",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/03/4a/__/4a3b09c8ca5c43194ea601e05$c0b7aa20161103.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63534",
+            "replay_stream_info": {
+              "media_id": 10032741,
+              "recorded_time": 1480214827000,
+              "duration": 2975190,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/27/11/10016511/1480217803154",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1043,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          }
+        ]
+      },
+      {
+        "category_info": {
+          "id": 9,
+          "name": "TRAVEL",
+          "color": "#ff6c2b"
+        },
+        "replays": [
+          {
+            "event_id": "",
+            "event_title": "聖誕燈飾 - 汐留篇",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/22/8c/0/8c5c79238b78e86000c046d12$f1f2dd20161122.jpeg",
+            "like_count": 20701,
+            "tags": "",
+            "category_info_mini": {
+              "id": 9,
+              "name": "TRAVEL",
+              "color": "#ff6c2b"
+            },
+            "channel": {
+              "channel_id": 10016571,
+              "user_id": 359538,
+              "user_name": "日本好好玩 George",
+              "avatar": "https://graph.facebook.com/10210464923275283/picture?type=large&width=120&height=120",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v64112",
+            "replay_stream_info": {
+              "media_id": 10033075,
+              "recorded_time": 1480678507000,
+              "duration": 4569963,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/02/20/10016571/1480683078208",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 2935,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "Hong Kong Ocean Park 2",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/24/4a/0/4a74ff747be31047406c3cc9d$3950a020160924.jpeg",
+            "like_count": 841,
+            "tags": "",
+            "category_info_mini": {
+              "id": 9,
+              "name": "TRAVEL",
+              "color": "#ff6c2b"
+            },
+            "channel": {
+              "channel_id": 10016449,
+              "user_id": 151541,
+              "user_name": "Charmaine Sei 薛素丽",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/15/46/__/4678fc0b7e3e01f46a7677dda$b9856020160915.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v59909",
+            "replay_stream_info": {
+              "media_id": 10031814,
+              "recorded_time": 1477627043000,
+              "duration": 5317715,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/10/28/13/10016449/1477632358897",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1828,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "带你认识从未见过的香港：茶餐厅式的Starbucks",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/66/0/66e7a6abc339aca7c3df97a26$f3efe620161119.jpeg",
+            "like_count": 3942,
+            "tags": "",
+            "category_info_mini": {
+              "id": 9,
+              "name": "TRAVEL",
+              "color": "#ff6c2b"
+            },
+            "channel": {
+              "channel_id": 10016509,
+              "user_id": 355738,
+              "user_name": "香港好好玩 Desiree",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/9c/__/9c097d26db02f349d4a4fc5fd$1b181520161201.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63343",
+            "replay_stream_info": {
+              "media_id": 10032995,
+              "recorded_time": 1480592053000,
+              "duration": 4985375,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/01/20/10016509/1480597039241",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1826,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "MERU 攀登梅鲁峰 观影会",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/10/13/f4/0/f451f56f878f52a78edb19a6c$a5acbb20161013.jpeg",
+            "like_count": 503,
+            "tags": "",
+            "category_info_mini": {
+              "id": 9,
+              "name": "TRAVEL",
+              "color": "#ff6c2b"
+            },
+            "channel": {
+              "channel_id": 10016267,
+              "user_id": 191874,
+              "user_name": "狮城玩咖",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/07/04/a8/__/a8400033c7d113c40ad8e6472$d1041a20160704.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v59111",
+            "replay_stream_info": {
+              "media_id": 10031424,
+              "recorded_time": 1476517045000,
+              "duration": 5876963,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/10/15/17/10016267/1476522932597",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 1604,
+              "ad_id": 102,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "神宮外苑 的 銀杏並木",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/22/8c/0/8c5c79238b78e86000c046d12$f1f2dd20161122.jpeg",
+            "like_count": 276,
+            "tags": "",
+            "category_info_mini": {
+              "id": 9,
+              "name": "TRAVEL",
+              "color": "#ff6c2b"
+            },
+            "channel": {
+              "channel_id": 10016571,
+              "user_id": 359538,
+              "user_name": "日本好好玩 George",
+              "avatar": "https://graph.facebook.com/10210464923275283/picture?type=large&width=120&height=120",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63094",
+            "replay_stream_info": {
+              "media_id": 10032524,
+              "recorded_time": 1479877281000,
+              "duration": 906171,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/23/13/10016571/1479878197727",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 942,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          }
+        ]
+      },
+      {
+        "category_info": {
+          "id": 11,
+          "name": "EVENTS",
+          "color": "#399afe"
+        },
+        "replays": [
+          {
+            "event_id": "",
+            "event_title": "China President Mr. Xi Jinping \"Singapore Lecture\" speech",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings.shabikplus.mozat.com/images/2015/11/07/b4/0/b43878fd70a39ec77b206478b$31585c20151107.png",
+            "like_count": 2921,
+            "tags": "seminar,zaobao",
+            "category_info_mini": {
+              "id": 11,
+              "name": "EVENTS",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10010367,
+              "user_id": 135785,
+              "user_name": "zaobao.sg",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/16/18/__/186d37baf42237ea518a283e9$ad063120160916.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v5491",
+            "replay_stream_info": {
+              "media_id": 10016442,
+              "recorded_time": 1446891873000,
+              "duration": 3420000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10009279_1446873262421.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 55536,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "志伟带你看热闹之新加坡百年古庙后港斗母宫迎接九皇大帝圣驾",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/30/57/0/572160fda3db5f5a5de125e76$d2923920160930.jpeg",
+            "like_count": 351380,
+            "tags": "",
+            "category_info_mini": {
+              "id": 11,
+              "name": "EVENTS",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10014634,
+              "user_id": 150078,
+              "user_name": "丽星娱乐台",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/25/b8/__/b8bbf08854f0e5f8ae8005f8e$e3c47f20160325.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v58650",
+            "replay_stream_info": {
+              "media_id": 10031002,
+              "recorded_time": 1475235135000,
+              "duration": 14502743,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/09/30/23/10014634/1475249639156",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 51756,
+              "ad_id": 81,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "龙应台Long Yingtai:My Culture Experience",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings.shabikplus.mozat.com/images/2015/10/30/24/0/241f818f7601965415d4aec34$ccb08b20151030.png",
+            "like_count": 319,
+            "tags": "seminar,zaobao",
+            "category_info_mini": {
+              "id": 11,
+              "name": "EVENTS",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10010367,
+              "user_id": 135785,
+              "user_name": "zaobao.sg",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/16/18/__/186d37baf42237ea518a283e9$ad063120160916.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v2974",
+            "replay_stream_info": {
+              "media_id": 10015262,
+              "recorded_time": 1445780817000,
+              "duration": 8541000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10010367_1445760559178.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 50228,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue42359",
+            "event_title": "从妈祖崇拜到游神： 谈华人的民间信仰",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/10/29/e7/0/e778e8420f06e1bdb63f271df$c8d8d920161029.jpeg",
+            "like_count": 3217,
+            "tags": "",
+            "category_info_mini": {
+              "id": 11,
+              "name": "EVENTS",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10010367,
+              "user_id": 135785,
+              "user_name": "zaobao.sg",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/16/18/__/186d37baf42237ea518a283e9$ad063120160916.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v60001",
+            "replay_stream_info": {
+              "media_id": 10031836,
+              "recorded_time": 1477721610000,
+              "duration": 11162900,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/10/31/16/10000243/1477901683291",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 11165,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "网生时代下的娱乐产业与泛娱乐思维",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/10/08/eb/0/eb421ab8d17f42267eefec18f$ebe9e820161008.jpeg",
+            "like_count": 5014,
+            "tags": "",
+            "category_info_mini": {
+              "id": 11,
+              "name": "EVENTS",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10010367,
+              "user_id": 135785,
+              "user_name": "zaobao.sg",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/16/18/__/186d37baf42237ea518a283e9$ad063120160916.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v58924",
+            "replay_stream_info": {
+              "media_id": 10031254,
+              "recorded_time": 1475907019000,
+              "duration": 7268686,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/10/08/16/10010367/1475914289055",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 8993,
+              "ad_id": 92,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "白先勇的文学、昆曲和人生－白先勇与王润华对谈",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/06/10/3d/0/3dcad84bc57f272919d61db05$991e0e20160610.jpeg",
+            "like_count": 489,
+            "tags": "",
+            "category_info_mini": {
+              "id": 11,
+              "name": "EVENTS",
+              "color": "#399afe"
+            },
+            "channel": {
+              "channel_id": 10010367,
+              "user_id": 135785,
+              "user_name": "zaobao.sg",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/16/18/__/186d37baf42237ea518a283e9$ad063120160916.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v44585",
+            "replay_stream_info": {
+              "media_id": 10027050,
+              "recorded_time": 1465558241000,
+              "duration": 4032000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10010367_1465562274600.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 1977,
+              "ad_id": 92,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          }
+        ]
+      },
+      {
+        "category_info": {
+          "id": 12,
+          "name": "OTHERS",
+          "color": "#d8a177"
+        },
+        "replays": [
+          {
+            "event_id": "",
+            "event_title": "與18歲敘利亞難民談心",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/19/58/0/58b8befd9a98ec8fc5e573007$f3f0f120161119.jpeg",
+            "like_count": 2909,
+            "tags": "",
+            "category_info_mini": {
+              "id": 12,
+              "name": "OTHERS",
+              "color": "#d8a177"
+            },
+            "channel": {
+              "channel_id": 10016525,
+              "user_id": 355794,
+              "user_name": "The Wei Show",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/18/4d/__/4d517475524bc9a6170288bfb$8b816d20161118.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v63554",
+            "replay_stream_info": {
+              "media_id": 10033079,
+              "recorded_time": 1480685245000,
+              "duration": 2268240,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/02/22/10016525/1480687514091",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 827,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "",
+            "event_title": "Causeway Scrabble Challenge Day 4",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/02/49/0/49286f06d7621bc78d72b83df$d2c39e20161202.jpeg",
+            "like_count": 0,
+            "tags": "",
+            "category_info_mini": {
+              "id": 12,
+              "name": "OTHERS",
+              "color": "#d8a177"
+            },
+            "channel": {
+              "channel_id": 10016575,
+              "user_id": 361525,
+              "user_name": "Causeway Scrabble Challenge",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/24/97/__/97d36a83d3e354241fd38fc18$04040420161124.jpeg",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v64183",
+            "replay_stream_info": {
+              "media_id": 10033107,
+              "recorded_time": 1480749655000,
+              "duration": 3305383,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/12/03/16/10016575/1480752960096",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 522,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue42367",
+            "event_title": "<三禧庆典>联欢晚宴 – 李氏盛宴",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/05/de/0/de8ad6028954cdfc7644e3a17$266fb320161105.jpeg",
+            "like_count": 1913,
+            "tags": "",
+            "category_info_mini": {
+              "id": 12,
+              "name": "OTHERS",
+              "color": "#d8a177"
+            },
+            "channel": {
+              "channel_id": 10016488,
+              "user_id": 355535,
+              "user_name": "新加坡李氏总会",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/02/4b/__/4bf84c7e234d998f02f344652$f35d2220161102.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v60746",
+            "replay_stream_info": {
+              "media_id": 10031996,
+              "recorded_time": 1478345434000,
+              "duration": 10034134,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "/2016/11/05/22/10016488/1478355469521",
+              "application": "video",
+              "dir": "/",
+              "watched_count": 5320,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          },
+          {
+            "event_id": "ue24771",
+            "event_title": "善济爱心慈善晚会2016",
+            "event_status": 3,
+            "event_poster1": "http://webapi-rings.shabikplus.mozat.com/images/2016/03/19/56/0/56acc98b7760046126facf3bb$f3eedd20160319.jpeg",
+            "like_count": 1731,
+            "tags": "",
+            "category_info_mini": {
+              "id": 12,
+              "name": "OTHERS",
+              "color": "#d8a177"
+            },
+            "channel": {
+              "channel_id": 10011505,
+              "user_id": 139338,
+              "user_name": "善济医社",
+              "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/05/2a/__/2a9b4280119b3c52f26de1cfb$f5dcdd20161205.png",
+              "broadcast_count": 0,
+              "follower_count": 0,
+              "is_broadcasting": false
+            },
+            "video_session_id": "v28631",
+            "replay_stream_info": {
+              "media_id": 10023575,
+              "recorded_time": 1458380414000,
+              "duration": 17144000,
+              "host": "d2bi7sjjwydkz8.cloudfront.net",
+              "port": 80,
+              "media_file": "10009279_1457947314081.mp4",
+              "application": "vod",
+              "dir": "/",
+              "watched_count": 8841,
+              "ad_id": 0,
+              "discarded": false
+            },
+            "access_code": "",
+            "payment_info": {
+              "ticket_price": 0,
+              "ticket_product_id": 0,
+              "ticket_payment_url": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

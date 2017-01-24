@@ -1,0 +1,27 @@
+{
+  "code": 200,
+  "note": 1481350568280,
+  "data": {
+    "event": {
+      "event_id": "ue42693",
+      "channel_id": 10016507,
+      "host_id": 356340,
+      "event_theme": "Clarence 和 DJ承尧与你分享设计灵感",
+      "event_start_time": 1481104800000,
+      "event_end_time": 1481108400000,
+      "event_language": "",
+      "event_location": "",
+      "event_description": "Clarence正业是一名室内设计师，同时他也是一名吉他手。\n\n他开的公司叫AARK Associates，Clarence花费了许多时间构思、绘制、指定材料、会见客户、供应商并定期访问项目。\n\n身为吉他手，他常常在酒吧，举办活动和婚礼宴席演出。除此之外，他也是Tay Kewei和Alfred Sim 御用吉他手。并且他也为不少本地歌手如Bevlyn Khoo，Joi Chua和Tay Kewei录制专辑。\n\n在Clarence休闲的时间，他喜欢用他独特的吉他风格重新排列歌曲。就这样，他创作出轻快也很有节奏的《唉，人生！》。\n",
+      "event_poster": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/0d/0/0d2a456b81449170cb9955a13$f9f9f220161201.jpeg",
+      "is_followed_by_user": true,
+      "tags": "",
+      "register_count": 33,
+      "is_registered_by_user": false,
+      "event_source": "1",
+      "event_remarks": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/a3/0/a3181346b6cdb8f81ad6eceb0$f9f9f220161201.jpeg",
+      "access_code": "",
+      "display_mode": 0,
+      "price_id": ""
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "code": 200,
+  "note": "",
+  "data": {
+    "channel_host": [
+      {
+        "user_id": 150915,
+        "user_info": {
+          "user_id": 150915,
+          "name": "JTV",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/24/22/__/226bdbdf3b6a7cfbc122716fb$74a23f20160324.png"
+        }
+      },
+      {
+        "user_id": 154147,
+        "user_info": {
+          "user_id": 154147,
+          "name": "木箱鼓手 Arthur 阿德",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/18/ea/__/ea47365c470ae9d0206038b22$f1efee20161118.jpeg"
+        }
+      },
+      {
+        "user_id": 151015,
+        "user_info": {
+          "user_id": 151015,
+          "name": "Branksome Hall Asia",
+          "avatar": "http://webapi-rings.shabikplus.mozat.com//images/2016/03/23/de/0/decf038e9e8aa392311746384$e7ece920160323.jpeg"
+        }
+      },
+      {
+        "user_id": 136458,
+        "user_info": {
+          "user_id": 136458,
+          "name": "Livehouse",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2015/10/02/a0/__/a07ca289f5e3ac98d9a124b4b$ededed20151002.jpeg"
+        }
+      },
+      {
+        "user_id": 139338,
+        "user_info": {
+          "user_id": 139338,
+          "name": "善济医社",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2015/11/24/a0/__/a0e49cae80b46a7dc818287c2$edebeb20151124.png"
+        }
+      },
+      {
+        "user_id": 135785,
+        "user_info": {
+          "user_id": 135785,
+          "name": "zaobao.sg",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/16/18/__/186d37baf42237ea518a283e9$ad063120160916.png"
+        }
+      },
+      {
+        "user_id": 137390,
+        "user_info": {
+          "user_id": 137390,
+          "name": "RINGS.TV Official",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2015/11/13/b2/__/b2deb102b654cdcc760c5f9c0$0c94fb20151113.png"
+        }
+      },
+      {
+        "user_id": 136656,
+        "user_info": {
+          "user_id": 136656,
+          "name": "National Parks Board",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2015/12/11/41/__/413cf1975be13371506bb5fd7$04040420151211.png"
+        }
+      },
+      {
+        "user_id": 118261,
+        "user_info": {
+          "user_id": 118261,
+          "name": "Ace Architecture",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/01/19/20/0/20903975c859afd5e95237e9a$2c263d20160119.jpeg"
+        }
+      },
+      {
+        "user_id": 148470,
+        "user_info": {
+          "user_id": 148470,
+          "name": "Eeva Productions",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/03/11/__/11daee7f6d311d9b309c286a2$04040420160303.png"
+        }
+      },
+      {
+        "user_id": 149750,
+        "user_info": {
+          "user_id": 149750,
+          "name": "功夫者",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/16/d6/__/d6f2d7ce7ef408adc9bfc1316$19234320160316.png"
+        }
+      },
+      {
+        "user_id": 154167,
+        "user_info": {
+          "user_id": 154167,
+          "name": "Unique Speed",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/04/05/47/__/47de3128f180750f7f70578a8$046b7b20160405.png"
+        }
+      },
+      {
+        "user_id": 118263,
+        "user_info": {
+          "user_id": 118263,
+          "name": "Style On",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2015/12/31/72/0/72e6847e4b79b346c40836356$0d0d0d20151231.jpeg"
+        }
+      },
+      {
+        "user_id": 152276,
+        "user_info": {
+          "user_id": 152276,
+          "name": "Advancing PME's Interests",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/04/01/db/__/db4ff2c100dbb77b75d029abd$79716b20160401.png"
+        }
+      },
+      {
+        "user_id": 151541,
+        "user_info": {
+          "user_id": 151541,
+          "name": "Charmaine Sei 薛素丽",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/09/15/46/__/4678fc0b7e3e01f46a7677dda$b9856020160915.jpeg"
+        }
+      },
+      {
+        "user_id": 141502,
+        "user_info": {
+          "user_id": 141502,
+          "name": "TMCS",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/01/04/68/__/680e3579e880209b1210bbdb7$0e346120160104.jpeg"
+        }
+      },
+      {
+        "user_id": 150078,
+        "user_info": {
+          "user_id": 150078,
+          "name": "丽星娱乐台",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/25/b8/__/b8bbf08854f0e5f8ae8005f8e$e3c47f20160325.png"
+        }
+      },
+      {
+        "user_id": 160511,
+        "user_info": {
+          "user_id": 160511,
+          "name": "新加坡 创业空间",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/04/15/7b/__/7b4fbfbcb8d72030736787c0b$b42c2c20160415.png"
+        }
+      },
+      {
+        "user_id": 136988,
+        "user_info": {
+          "user_id": 136988,
+          "name": "Digital Fashion Week",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2015/10/30/04/__/04ed273955f76a1a1bbe86956$04040420151030.png"
+        }
+      },
+      {
+        "user_id": 125310,
+        "user_info": {
+          "user_id": 125310,
+          "name": "IC Cafe SGP",
+          "avatar": "http://webapi-rings.shabikplus.mozat.com/images/2015/06/08/73/__/73848b88379145006e2a114ff60e55ac20150608.png"
+        }
+      },
+      {
+        "user_id": 151069,
+        "user_info": {
+          "user_id": 151069,
+          "name": "Girlfriends Startup Alliance",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/24/d7/__/d7450fd5f20da82834db3f97c$8d8c8c20160324.png"
+        }
+      }
+    ],
+    "end": 0
+  }
+}

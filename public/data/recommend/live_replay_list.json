@@ -1,0 +1,242 @@
+{
+  "code": 200,
+  "note": 1480949414876,
+  "data": {
+    "end": 0,
+    "event_info": [
+      {
+        "event_title": "live at hood bar with 吃喝玩樂!",
+        "event_status": 2,
+        "event_description": "",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/22/f2/0/f293d971afd67a61adbf9d5fc$81818120161122.jpeg",
+        "event_poster2": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/22/f2/0/f293d971afd67a61adbf9d5fc$81818120161122.jpeg",
+        "like_count": 2869,
+        "category_info_mini": {
+          "id": 1,
+          "name": "GENERAL",
+          "color": "#e6e6e6"
+        },
+        "channel": {
+          "channel_id": 10016561,
+          "user_id": 356420,
+          "user_name": "弹唱男高音 Nat Wu 健豪",
+          "avatar": "https://graph.facebook.com/10157722370920084/picture?type=large&width=120&height=120",
+          "is_broadcasting": true
+        },
+        "video_session_id": "v63719",
+        "live_stream_info": {
+          "application": "live",
+          "stream": "10016561",
+          "hls_host": "d6hua3ww2aij1.cloudfront.net",
+          "hls_port": 80,
+          "hls_url": [
+            "http://d6hua3ww2aij1.cloudfront.net:80/live/10016561/playlist.m3u8",
+            "http://pkleyou.cn:80/live/10016561/playlist.m3u8"
+          ],
+          "start_time": 1480948291868,
+          "viewer_count": 22,
+          "webviewer_count": 461
+        },
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_title": "Maggie goreng take 3",
+        "event_status": 2,
+        "event_description": "",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/18/b6/0/b6efe9c9a152d8edf6c851e6a$88b99b20161118.jpeg",
+        "event_poster2": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/18/b6/0/b6efe9c9a152d8edf6c851e6a$88b99b20161118.jpeg",
+        "like_count": 960,
+        "category_info_mini": {
+          "id": 1,
+          "name": "GENERAL",
+          "color": "#e6e6e6"
+        },
+        "channel": {
+          "channel_id": 10016526,
+          "user_id": 355821,
+          "user_name": "蒙面➗男",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/18/de/__/dee9679d657b49410f7d7eb97$ac755d20161118.jpeg",
+          "is_broadcasting": true
+        },
+        "video_session_id": "v64419",
+        "live_stream_info": {
+          "application": "live",
+          "stream": "10016526",
+          "hls_host": "d1oumay4im0cbl.cloudfront.net",
+          "hls_port": 80,
+          "hls_url": [
+            "http://d1oumay4im0cbl.cloudfront.net:80/live/10016526/playlist.m3u8"
+          ],
+          "start_time": 1480948789699,
+          "viewer_count": 23,
+          "webviewer_count": 332
+        },
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_title": "2016 GE Women's - Cardiff Vs Maitland",
+        "event_status": 2,
+        "event_description": "",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/07/01/f4/0/f4e79d4e74bb4f9d1fb19cf87$1d281520160701.jpeg",
+        "event_poster2": "",
+        "like_count": 0,
+        "channel": {
+          "channel_id": 10013800,
+          "user_id": 147931,
+          "user_name": "BarTV Sports",
+          "avatar": "http://webapi-rings.shabikplus.mozat.com//images/2016/02/29/7b/0/7b78139dc0056c81c0fb98d5f$8a7e7820160229.jpeg",
+          "is_broadcasting": true
+        },
+        "video_session_id": "v64013",
+        "live_stream_info": {
+          "application": "live",
+          "stream": "10013800",
+          "hls_host": "d1lhuybnflqpkf.cloudfront.net",
+          "hls_port": 80,
+          "hls_url": [
+            "http://d1lhuybnflqpkf.cloudfront.net:80/live/10013800/playlist.m3u8"
+          ],
+          "start_time": 1480948552132,
+          "viewer_count": 1,
+          "webviewer_count": 54
+        },
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42685",
+        "event_title": "PAssion Silver Card Launching歌台晚会",
+        "event_status": 3,
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/03/08/0/08ecbfbd956727030f334f22b$0b111420161203.jpeg",
+        "like_count": 68782,
+        "tags": "",
+        "category_info_mini": {
+          "id": 16,
+          "name": "GETAI",
+          "color": "#fe6186"
+        },
+        "channel": {
+          "channel_id": 10014634,
+          "user_id": 150078,
+          "user_name": "丽星娱乐台",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/25/b8/__/b8bbf08854f0e5f8ae8005f8e$e3c47f20160325.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "video_session_id": "v64286",
+        "replay_stream_info": {
+          "media_id": 10033154,
+          "recorded_time": 1480844989000,
+          "duration": 13278318,
+          "host": "d2bi7sjjwydkz8.cloudfront.net",
+          "port": 80,
+          "media_file": "/2016/12/04/21/10014634/1480858268322",
+          "application": "video",
+          "dir": "/",
+          "watched_count": 16398
+        },
+        "weight": 608,
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "",
+        "event_title": "两老两少胡说八道 早晨最劲爆30112016",
+        "event_status": 3,
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/26/bf/0/bf895b12319ddd4de96d99d73$2e504b20161126.jpeg",
+        "like_count": 101772,
+        "tags": "",
+        "category_info_mini": {
+          "id": 8,
+          "name": "LIFESTYLE",
+          "color": "#399afe"
+        },
+        "channel": {
+          "channel_id": 10014703,
+          "user_id": 150915,
+          "user_name": "JTV",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/24/22/__/226bdbdf3b6a7cfbc122716fb$74a23f20160324.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "video_session_id": "v63673",
+        "replay_stream_info": {
+          "media_id": 10032858,
+          "recorded_time": 1480461534000,
+          "duration": 9766263,
+          "host": "d2bi7sjjwydkz8.cloudfront.net",
+          "port": 80,
+          "media_file": "/2016/11/30/10/10014703/1480471301140",
+          "application": "video",
+          "dir": "/",
+          "watched_count": 9528
+        },
+        "weight": 600,
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "",
+        "event_title": " UFM100.3 线上直播!",
+        "event_status": 3,
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/27/ca/0/caac883f4cb7c5d488f490ba3$d3cdcd20161127.jpeg",
+        "like_count": 123118,
+        "tags": "",
+        "category_info_mini": {
+          "id": 15,
+          "name": "UFM",
+          "color": "#897dff"
+        },
+        "channel": {
+          "channel_id": 10016207,
+          "user_id": 186671,
+          "user_name": "UFM100.3",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/09/__/0941690c0e72b3564b6622601$92c22220161110.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "video_session_id": "v63391",
+        "replay_stream_info": {
+          "media_id": 10032757,
+          "recorded_time": 1480287659000,
+          "duration": 14510245,
+          "host": "d2bi7sjjwydkz8.cloudfront.net",
+          "port": 80,
+          "media_file": "/2016/11/28/11/10016207/1480302170093",
+          "application": "video",
+          "dir": "/",
+          "watched_count": 8324
+        },
+        "weight": 599,
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      }
+    ]
+  }
+}

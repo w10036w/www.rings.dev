@@ -1,0 +1,28 @@
+{
+  "code": 200,
+  "note": 1481461578687,
+  "data": {
+    "end": true,
+    "media_info": [
+      {
+        "media_id": 10033496,
+        "title": "“FACE OF VSS” 2016 BEAUTY PAGEANT AND TALENT SHOWCASE",
+        "recorded_time": 1481367711000,
+        "watched_count": 3869,
+        "cover_url": "https://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/10/5e/0/5ecf402dfaf6ec09446e040f8$865c4220161210.jpeg",
+        "host": "d2bi7sjjwydkz8.cloudfront.net",
+        "port": 80,
+        "media_file": "/2016/12/10/23/10016594/1481382078003",
+        "duration": 14366272,
+        "channel_id": 10016594,
+        "application": "video",
+        "dir": "/",
+        "anchor_info": {
+          "user_id": 716373
+        },
+        "video_session_id": "v64914",
+        "tags": ""
+      }
+    ]
+  }
+}

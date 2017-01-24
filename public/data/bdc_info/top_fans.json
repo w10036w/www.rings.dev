@@ -1,0 +1,38 @@
+{
+  "code": 200,
+  "note": "",
+  "data": {
+    "fan_infos": [
+      {
+        "user_id": 155871,
+        "user_name": "Heng Heng",
+        "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/26/d8/__/d83f263b6b35b1deacb074630$95a38f20161126.jpeg",
+        "donated_amount": 60
+      },
+      {
+        "user_id": 175219,
+        "user_name": "Betty Lee",
+        "avatar": "http://graph.facebook.com/1750945621849123/picture?type=large",
+        "donated_amount": 12
+      },
+      {
+        "user_id": 360477,
+        "user_name": "Andrew Sim",
+        "avatar": "http://graph.facebook.com/108010996352669/picture?type=large",
+        "donated_amount": 10
+      },
+      {
+        "user_id": 332938,
+        "user_name": "Ratchaniphon Jenny",
+        "avatar": "http://graph.facebook.com/1752435234996306/picture?type=large",
+        "donated_amount": 5
+      },
+      {
+        "user_id": 693994,
+        "user_name": "Steven Tan",
+        "avatar": "https://graph.facebook.com/227856204314456/picture?type=large&width=120&height=120",
+        "donated_amount": 5
+      }
+    ]
+  }
+}

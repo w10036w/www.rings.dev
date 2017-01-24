@@ -1,0 +1,34 @@
+{
+  "code": 200,
+  "note": "",
+  "data": {
+    "end": 1,
+    "total": 4,
+    "follower_info": [
+      {
+        "user_id": 281575,
+        "user_name": "Guest870",
+        "avatar": "http://webapi.shabikplus.mozat.com/images/2015/07/03/50/0/509b236d0e1b80b3c36c94806a91338b20150703.png",
+        "gender": 0
+      },
+      {
+        "user_id": 183578,
+        "user_name": "Guest492",
+        "avatar": "http://webapi.shabikplus.mozat.com/images/2015/07/03/4e/0/4e7303d3e5d3cb6925e6e0d14b26347020150703.png",
+        "gender": 0
+      },
+      {
+        "user_id": 196570,
+        "user_name": "Duje Dhehe",
+        "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+        "gender": 0
+      },
+      {
+        "user_id": 356280,
+        "user_name": "AhSoh.SG吃好料",
+        "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/06/7e/__/7eb391388d5b30bbe69a2119f$b0b6a420161106.jpeg",
+        "gender": 2
+      }
+    ]
+  }
+}

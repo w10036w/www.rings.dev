@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <title>RINGS.TV</title>
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+  <link rel="shortcut icon" type="image/x-icon" href="https://rings-web.s3.amazonaws.com/favicon.ico">
+  {{ STYLE }}
+</head>
+<body>
+{{ APP }}
+<script src="/lib/device.min.js"></script>
+<script src="/dist/client-vendor-bundle.js"></script>
+<script src="/dist/client-bundle.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.js"></script>
+<script>
+  if ('addEventListener' in document) {
+    document.addEventListener('DOMContentLoaded', function() {
+      FastClick.attach(document.body);
+    }, false);
+  }
+</script>
+</body>
+</html>

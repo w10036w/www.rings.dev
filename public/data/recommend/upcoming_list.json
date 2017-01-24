@@ -1,0 +1,749 @@
+{
+  "code": 200,
+  "note": 1480863311774,
+  "data": {
+    "end": 0,
+    "event_info": [
+      {
+        "event_id": "ue42664",
+        "event_title": "＃1 Entertaining 早班",
+        "event_status": 1,
+        "event_start_time": 1480892400000,
+        "event_end_time": 1480903200000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "文鸿，丽梅，小猪＋伟龙。绝佳的默契！还有100.3最搞笑的听众，听了绝对上瘾",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/62/0/62592c66c59d1aba2732f9496$d3cdcd20161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 15,
+          "name": "UFM",
+          "color": "#897dff"
+        },
+        "channel": {
+          "channel_id": 10016207,
+          "user_id": 186671,
+          "user_name": "UFM100.3",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/09/__/0941690c0e72b3564b6622601$92c22220161110.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 78,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42715",
+        "event_title": "两老两少胡说八道 早晨最劲爆",
+        "event_status": 1,
+        "event_start_time": 1480893300000,
+        "event_end_time": 1480903200000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "电台直播\r\n\r\n两老两少胡说八道 早晨最劲爆\r\n",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/b5/0/b51cadf3444e2561ab5f9907f$2e504a20161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 8,
+          "name": "LIFESTYLE",
+          "color": "#399afe"
+        },
+        "channel": {
+          "channel_id": 10014703,
+          "user_id": 150915,
+          "user_name": "JTV",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/24/22/__/226bdbdf3b6a7cfbc122716fb$74a23f20160324.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 69,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42679",
+        "event_title": "烘焙达人Zach教你做西点",
+        "event_status": 1,
+        "event_start_time": 1480912200000,
+        "event_end_time": 1481520600000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "已有20年烘培经年的烘培达人Zach 是 Baker Heart 的创办人，擅长制做蛋糕和糕点。\n\n在2013 年，他精巧的手艺被国庆庆典的主办方相中，特别指定他为新加坡48th岁生日制做蛋糕。\n\n除此之外，他个人的成就也一鸣惊人。2014 年，他是 新加坡 Baking & Confectionery Championship 的得奖者之一。\n\n2015年，他代表新加坡远参加国际烘培大赛，和各国顶级的烘培师傅切磋厨艺。\n\n近几年来，他的蛋糕也受到很多本地艺人和大机构的青睐。Pierre Png 和 Jaclyn Tay以及，小米，Fraser Hospitality 和CitiBank 都是他的顾客。\n\n这么杰出的烘培老板已经来到UFM1003线上直播分享他的手艺，大家怎么能不关注关注他呢？\n",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/db/0/db3dc5aba67bb11633bffa26b$eceade20161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 3,
+          "name": "FOOD",
+          "color": "#b5957c"
+        },
+        "channel": {
+          "channel_id": 10016528,
+          "user_id": 356338,
+          "user_name": "烘焙神手 Zach",
+          "avatar": "https://graph.facebook.com/10206887389653374/picture?type=large&width=120&height=120",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 24,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42682",
+        "event_title": "最恶心的甜蜜举动? 张莹邀彦维小二一起聊!",
+        "event_status": 1,
+        "event_start_time": 1480912200000,
+        "event_end_time": 1481520600000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "张莹的声音，你绝对不陌生。她在本地的一家电台担任全职DJ长达8年，并同时兼任高级制片人及推广和宣传部主管。她目前是UFM100.3的兼职DJ，主持星期天10am-2pm的节目。恋爱经验丰富的她，这次找来恋爱经验匮乏的本地艺人彦维小二，要一起轻松大聊各种恋爱问题！一个经验丰富，可以分享胜利秘诀。一个经验匮乏，可以分享失败的原因。他们的节目，你一定要看！",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/06/0/06fcdae86ad672a966df787fb$c8bbac20161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 8,
+          "name": "LIFESTYLE",
+          "color": "#399afe"
+        },
+        "channel": {
+          "channel_id": 10016540,
+          "user_id": 356595,
+          "user_name": "剩女 张莹",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/18/df/__/dffb6356cf9910fc2515ccd4e$b89f8620161118.jpeg",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 23,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42683",
+        "event_title": "本地歌手Ruth巍妙如献唱",
+        "event_status": 1,
+        "event_start_time": 1480928400000,
+        "event_end_time": 1480932000000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "本地歌手魏妙如，看似柔弱但内心坚强！妙如习惯自我疗愈的坚强个性也体现在了追逐歌唱的道路上。2012 年及 2013 年分别参加了《华人超级星光大道》以及《超级偶像》 PK, 虽落败却让她更加坚定自己想当歌手的决心。于是妙如从新加坡国立大学毕业后,不顾父亲反对,朝全职歌唱的行列无畏前行。之后也参加过《我要当歌手》晋级《中国好声音》新加坡区域海选的前三名。这几年,妙如也在婚礼和本地各大 livehouse (Switch, Shuffle, Timbre) 驻唱, 发专辑前的她也曾帮过JJ Lin、蔡淳佳、玄子、张静、梁文福等唱过Demo, 也唱过第8波道连续剧《好运到》 的插曲<爱不胜防》,118插曲《最美的旅行》，《幸福料理》的同名主题曲。这些经验都是她满满的收获。首张EP专辑《我跟你。说》由 2013年11 月发行。",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/e7/0/e70dfb459aceffac2402b1c0b$f5f4f020161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 6,
+          "name": "MUSIC",
+          "color": "#fe6186"
+        },
+        "channel": {
+          "channel_id": 10016522,
+          "user_id": 163666,
+          "user_name": "本地歌手 Ruth魏妙如",
+          "avatar": "https://graph.facebook.com/10153630070158723/picture?type=large&width=120&height=120",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 22,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42699",
+        "event_title": "最放松的傍晚班 UFM100.3",
+        "event_status": 1,
+        "event_start_time": 1480932000000,
+        "event_end_time": 1480935600000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "下班回家有菁云，良泉，欣盈陪你放松心情。有心理测验，《生活u大调》精彩单元。",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/dd/0/dd5314c304e3e02dbfdaf8453$e9e7e720161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 15,
+          "name": "UFM",
+          "color": "#897dff"
+        },
+        "channel": {
+          "channel_id": 10016207,
+          "user_id": 186671,
+          "user_name": "UFM100.3",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/09/__/0941690c0e72b3564b6622601$92c22220161110.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 21,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42691",
+        "event_title": "橡皮章雕刻 白丝木",
+        "event_status": 1,
+        "event_start_time": 1480937400000,
+        "event_end_time": 1482150600000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "白丝木毕业于国大中文系，有6年的雕刻经验，平日喜欢在社交媒体上分享关于雕刻的创作与设计。",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/d5/0/d5b57581c03e1e498feb5a058$f7f7ef20161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 8,
+          "name": "LIFESTYLE",
+          "color": "#399afe"
+        },
+        "channel": {
+          "channel_id": 10016532,
+          "user_id": 355773,
+          "user_name": "橡皮章雕刻 白丝木",
+          "avatar": "https://lh4.googleusercontent.com/-yT2bnnHtfEI/AAAAAAAAAAI/AAAAAAAACy8/4-6l2Jc4tug/s120/photo.jpg",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 13,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42692",
+        "event_title": "男低音铭伟和 Yokez, Vee来献唱咯！",
+        "event_status": 1,
+        "event_start_time": 1480937400000,
+        "event_end_time": 1480941000000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "起床后就弹弹吉他，唱唱歌 。睡觉前也重复同样的活动，这就是铭伟每一天过的日子。\n\n铭伟是Micappella麦克疯的男低音，是一位歌手也是吉他手。时常在婚礼上表演，也在许多地方驻唱。 \n\n铭伟希望能用自己的音乐带给大家更多正能量！\n\n",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/a0/0/a0d82a32c4bc6860c71675912$654b5520161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 6,
+          "name": "MUSIC",
+          "color": "#fe6186"
+        },
+        "channel": {
+          "channel_id": 10016589,
+          "user_id": 692346,
+          "user_name": "Goh Mingwei",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/03/4c/__/4ce30158ad72a32395abfa302$62475220161203.jpeg",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 15,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42689",
+        "event_title": "爱の家 Jo~Rei~Mi生活点滴",
+        "event_status": 1,
+        "event_start_time": 1480941000000,
+        "event_end_time": 1480944600000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "Rei 是一位房地产中介 。 由于他的工作需求，他必须和很多人交谈同的人以及处理很多不同的事情。所以现在希望通过这个管道，把自己所学习的生活经验,生活的酸甜苦乐， 与大家分享。\n\n而他的生活也是非常美满的。目前，他有一位很甜美的妻子，一个3岁大的孩子和一个刚出生的宝宝。就因为拥有这份幸福感，同时希望与大家一起努力创造美好\n",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/53/0/535168b63d5dc68dab766f5a4$f8f8f220161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 8,
+          "name": "LIFESTYLE",
+          "color": "#399afe"
+        },
+        "channel": {
+          "channel_id": 10016527,
+          "user_id": 356266,
+          "user_name": "爱の家 Jo~Rei~Mi",
+          "avatar": "https://graph.facebook.com/10154297801644006/picture?type=large&width=120&height=120",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 16,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42694",
+        "event_title": "Tiffany钢琴老师又来唱歌咯！",
+        "event_status": 1,
+        "event_start_time": 1480944600000,
+        "event_end_time": 1480948200000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "全职是钢琴老师的Tiffany 从小喜欢音乐， 音乐从未离开过她的世界。16岁开始她参加了许多的比赛和演出，累极了不少经验。除了音乐，她喜欢运动还有旅游，她也会介绍美食给大家。",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/94/0/9451425115810824a9f7da557$86643f20161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 6,
+          "name": "MUSIC",
+          "color": "#fe6186"
+        },
+        "channel": {
+          "channel_id": 10016523,
+          "user_id": 356286,
+          "user_name": "魅力嗓音 Tiffany",
+          "avatar": "https://graph.facebook.com/10154543216632850/picture?type=large&width=120&height=120",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 22,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42722",
+        "event_title": "男高音Nat Wu首次献唱！",
+        "event_status": 1,
+        "event_start_time": 1480948200000,
+        "event_end_time": 1480951800000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "男高音Nat Wu首次献唱",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/04/4c/0/4cb6b8ba5a802659225990eab$81818120161204.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 6,
+          "name": "MUSIC",
+          "color": "#fe6186"
+        },
+        "channel": {
+          "channel_id": 10016561,
+          "user_id": 356420,
+          "user_name": "弹唱男高音 Nat Wu 健豪",
+          "avatar": "https://graph.facebook.com/10157722370920084/picture?type=large&width=120&height=120",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 5,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42702",
+        "event_title": "最有Feel的夜班 UFM100.3",
+        "event_status": 1,
+        "event_start_time": 1480950000000,
+        "event_end_time": 1480953620000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "夜晚最有Feel，欣盈来代班！睡前必听。",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/04/e5/0/e57338058f5addc2e1c7824cd$282e3a20161204.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 15,
+          "name": "UFM",
+          "color": "#897dff"
+        },
+        "channel": {
+          "channel_id": 10016207,
+          "user_id": 186671,
+          "user_name": "UFM100.3",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/09/__/0941690c0e72b3564b6622601$92c22220161110.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 23,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42665",
+        "event_title": "#1 Entertaining 早班",
+        "event_status": 1,
+        "event_start_time": 1480978800000,
+        "event_end_time": 1480989600000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "文鸿，丽梅，小猪＋伟龙。绝佳的默契！还有100.3最搞笑的听众，听了绝对上瘾。",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/f6/0/f6c1e2c7a644d9a52bd3e441b$d3cdcd20161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 15,
+          "name": "UFM",
+          "color": "#897dff"
+        },
+        "channel": {
+          "channel_id": 10016207,
+          "user_id": 186671,
+          "user_name": "UFM100.3",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/09/__/0941690c0e72b3564b6622601$92c22220161110.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 29,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42717",
+        "event_title": "两老两少胡说八道 早晨最劲爆",
+        "event_status": 1,
+        "event_start_time": 1480979700000,
+        "event_end_time": 1480989600000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "电台直播 两老两少胡说八道 早晨最劲爆",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/02/90/0/90706efc146bb2cddaf8c0bb4$2e504a20161202.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 8,
+          "name": "LIFESTYLE",
+          "color": "#399afe"
+        },
+        "channel": {
+          "channel_id": 10014703,
+          "user_id": 150915,
+          "user_name": "JTV",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/24/22/__/226bdbdf3b6a7cfbc122716fb$74a23f20160324.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 29,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42710",
+        "event_title": "CurryPop 歌唱时段",
+        "event_status": 1,
+        "event_start_time": 1481002200000,
+        "event_end_time": 1481005800000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "CurryPop！新加坡本地歌唱团体！他们的梦想是登上国际舞台，把新加坡的音乐分享给更多的人。\n听起来很拽，不过是这是他们最真实的梦想。帮 CurryPop 打打气吧！",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/2b/0/2bed831e4dd29053bed432621$d6d9da20161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 6,
+          "name": "MUSIC",
+          "color": "#fe6186"
+        },
+        "channel": {
+          "channel_id": 10016521,
+          "user_id": 356352,
+          "user_name": "弹唱乐团 CurryPop",
+          "avatar": "https://lh6.googleusercontent.com/-_wrcPwq2Mho/AAAAAAAAAAI/AAAAAAAAADU/d93KCPszVSY/s120/photo.jpg",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 8,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42705",
+        "event_title": "最放松的傍晚班 UFM100.3",
+        "event_status": 1,
+        "event_start_time": 1481018400000,
+        "event_end_time": 1481022000000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "下班回家有菁云、良泉、欣盈陪你放松心情。有心理测验《生活U大调》精彩单元。",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/f0/0/f074d433fe68c490aaa957693$e9e7e720161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 15,
+          "name": "UFM",
+          "color": "#897dff"
+        },
+        "channel": {
+          "channel_id": 10016207,
+          "user_id": 186671,
+          "user_name": "UFM100.3",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/09/__/0941690c0e72b3564b6622601$92c22220161110.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 8,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42709",
+        "event_title": "丽梅时而做bo..时而忙毛孩线上直播",
+        "event_status": 1,
+        "event_start_time": 1481027400000,
+        "event_end_time": 1481031000000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "叶丽梅是是UFM100.3的早班成员之一。这个名字也是本地娱乐圈家喻户晓的一个名字，也可说是电台的“三栖艺人”。出道至今先是在电视荧幕亮相，后是被发掘歌唱天赋。主持、演戏、唱歌，都难不倒她。\n\n\n\n私底下的她亦是一个动物爱好者。有关毛小孩的一切公益的事宜，她都想参与，尽可能帮助它们。家里除了饲养狗狗之外，今年也开始有只蹦蹦跳跳的猫咪出现了。\n\n\n\n近期她在UFM100.3的脸书上做的线上直播也获得广大回响！无论是分享以前在工作时所遇到的趣事，唱歌还是带狗狗去游泳，直播观看人数也常常打破记录！\n",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/f1/0/f1f95b22152be800b13c01152$f9f9f120161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 15,
+          "name": "UFM",
+          "color": "#897dff"
+        },
+        "channel": {
+          "channel_id": 10016494,
+          "user_id": 355784,
+          "user_name": "UFM100.3 丽梅",
+          "avatar": "http://graph.facebook.com/10207910936472180/picture?type=large",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 15,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42716",
+        "event_title": "最有Feel 的夜班 UFM100.3",
+        "event_status": 1,
+        "event_start_time": 1481036400000,
+        "event_end_time": 1481040020000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "夜晚最有Feel，欣盈来代班！睡前必听。",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/04/31/0/31cd151fd602229f015c57278$282e3a20161204.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 15,
+          "name": "UFM",
+          "color": "#897dff"
+        },
+        "channel": {
+          "channel_id": 10016207,
+          "user_id": 186671,
+          "user_name": "UFM100.3",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/09/__/0941690c0e72b3564b6622601$92c22220161110.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 15,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42666",
+        "event_title": "#1 Entertaining 早班",
+        "event_status": 1,
+        "event_start_time": 1481065200000,
+        "event_end_time": 1481076000000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "文鸿，丽梅，小猪＋伟龙。绝佳的默契！还有100.3最搞笑的听众，听了绝对上瘾。",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/01/9b/0/9bcc0491fffbf7413a5091a8e$d3cdcd20161201.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 15,
+          "name": "UFM",
+          "color": "#897dff"
+        },
+        "channel": {
+          "channel_id": 10016207,
+          "user_id": 186671,
+          "user_name": "UFM100.3",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/11/10/09/__/0941690c0e72b3564b6622601$92c22220161110.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 20,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      },
+      {
+        "event_id": "ue42718",
+        "event_title": "两老两少胡说八道 早晨最劲爆",
+        "event_status": 1,
+        "event_start_time": 1481066100000,
+        "event_end_time": 1481076000000,
+        "event_language": "",
+        "event_location": "",
+        "event_description": "电台直播\r\n\r\n两老两少胡说八道 早晨最劲爆\r\n",
+        "operation_description": "1",
+        "event_poster1": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/12/02/ed/0/edfd5cc4bcd5f2ee088f87e3a$2e504a20161202.jpeg",
+        "tags": "",
+        "category_info_mini": {
+          "id": 8,
+          "name": "LIFESTYLE",
+          "color": "#399afe"
+        },
+        "channel": {
+          "channel_id": 10014703,
+          "user_id": 150915,
+          "user_name": "JTV",
+          "avatar": "http://webapi-rings-aws.shabikplus.mozat.com/images/2016/03/24/22/__/226bdbdf3b6a7cfbc122716fb$74a23f20160324.png",
+          "broadcast_count": 0,
+          "follower_count": 0,
+          "is_broadcasting": false
+        },
+        "upcoming_info": {
+          "register_count": 27,
+          "is_registered_by_user": false
+        },
+        "access_code": "",
+        "payment_info": {
+          "ticket_price": 0,
+          "ticket_product_id": 0,
+          "ticket_payment_url": ""
+        }
+      }
+    ]
+  }
+}
